@@ -1,0 +1,1657 @@
+clients number: 20, iteration: 50, defense: ShieldFL, dataset: mnist, attack: untarget, iid: True malicious number: 5
+round =  0 edge = 0 poison = False Average loss: 2.3012  Accuracy: 11.36%
+round =  0 edge = 1 poison = True Average loss: 2.2805  Accuracy: 15.54%
+round =  0 edge = 2 poison = False Average loss: 2.3021  Accuracy: 10.82%
+round =  0 edge = 3 poison = False Average loss: 2.3021  Accuracy: 10.67%
+round =  0 edge = 4 poison = False Average loss: 2.3017  Accuracy: 11.39%
+round =  0 edge = 5 poison = False Average loss: 2.3017  Accuracy: 10.97%
+round =  0 edge = 6 poison = False Average loss: 2.3023  Accuracy: 9.80%
+round =  0 edge = 7 poison = False Average loss: 2.3017  Accuracy: 11.66%
+round =  0 edge = 8 poison = False Average loss: 2.3018  Accuracy: 11.38%
+round =  0 edge = 9 poison = False Average loss: 2.3023  Accuracy: 10.40%
+round =  0 edge = 10 poison = True Average loss: 2.2750  Accuracy: 15.56%
+round =  0 edge = 11 poison = True Average loss: 2.2805  Accuracy: 14.05%
+round =  0 edge = 12 poison = False Average loss: 2.3025  Accuracy: 10.13%
+round =  0 edge = 13 poison = False Average loss: 2.3019  Accuracy: 11.65%
+round =  0 edge = 14 poison = False Average loss: 2.3023  Accuracy: 10.52%
+round =  0 edge = 15 poison = False Average loss: 2.3024  Accuracy: 10.29%
+round =  0 edge = 16 poison = False Average loss: 2.3023  Accuracy: 10.77%
+round =  0 edge = 17 poison = True Average loss: 2.2541  Accuracy: 18.71%
+round =  0 edge = 18 poison = False Average loss: 2.3024  Accuracy: 10.95%
+round =  0 edge = 19 poison = True Average loss: 2.2836  Accuracy: 14.04%
+Global model result at epoch 0-th
+poisoned: untarget, round: 0 Average loss: 2.3017, Accuracy: 1028.0/10000 (10.28%)
+label : 0 ,Recall: 0.0/980.0 (0.00%))
+label : 1 ,Recall: 0.0/1135.0 (0.00%))
+label : 2 ,Recall: 1028.0/1032.0 (99.61%))
+label : 3 ,Recall: 0.0/1010.0 (0.00%))
+label : 4 ,Recall: 0.0/982.0 (0.00%))
+label : 5 ,Recall: 0.0/892.0 (0.00%))
+label : 6 ,Recall: 0.0/958.0 (0.00%))
+label : 7 ,Recall: 0.0/1028.0 (0.00%))
+label : 8 ,Recall: 0.0/974.0 (0.00%))
+label : 9 ,Recall: 0.0/1009.0 (0.00%))
+======================================================
+round =  1 edge = 0 poison = False Average loss: 2.2999  Accuracy: 11.73%
+round =  1 edge = 1 poison = True Average loss: 2.2213  Accuracy: 19.17%
+round =  1 edge = 2 poison = False Average loss: 2.3010  Accuracy: 10.73%
+round =  1 edge = 3 poison = False Average loss: 2.3009  Accuracy: 10.75%
+round =  1 edge = 4 poison = False Average loss: 2.3005  Accuracy: 11.56%
+round =  1 edge = 5 poison = False Average loss: 2.3007  Accuracy: 11.39%
+round =  1 edge = 6 poison = False Average loss: 2.3015  Accuracy: 10.59%
+round =  1 edge = 7 poison = False Average loss: 2.3002  Accuracy: 11.71%
+round =  1 edge = 8 poison = False Average loss: 2.3010  Accuracy: 11.35%
+round =  1 edge = 9 poison = False Average loss: 2.3014  Accuracy: 10.31%
+round =  1 edge = 10 poison = True Average loss: 2.2592  Accuracy: 16.99%
+round =  1 edge = 11 poison = True Average loss: 2.2827  Accuracy: 13.91%
+round =  1 edge = 12 poison = False Average loss: 2.3009  Accuracy: 10.78%
+round =  1 edge = 13 poison = False Average loss: 2.3009  Accuracy: 11.62%
+round =  1 edge = 14 poison = False Average loss: 2.3017  Accuracy: 11.31%
+round =  1 edge = 15 poison = False Average loss: 2.3014  Accuracy: 10.51%
+round =  1 edge = 16 poison = False Average loss: 2.3012  Accuracy: 11.14%
+round =  1 edge = 17 poison = True Average loss: 2.2647  Accuracy: 14.89%
+round =  1 edge = 18 poison = False Average loss: 2.3014  Accuracy: 11.16%
+round =  1 edge = 19 poison = True Average loss: 2.2842  Accuracy: 13.69%
+Global model result at epoch 1-th
+poisoned: untarget, round: 1 Average loss: 2.3012, Accuracy: 1009.0/10000 (10.09%)
+label : 0 ,Recall: 0.0/980.0 (0.00%))
+label : 1 ,Recall: 0.0/1135.0 (0.00%))
+label : 2 ,Recall: 0.0/1032.0 (0.00%))
+label : 3 ,Recall: 0.0/1010.0 (0.00%))
+label : 4 ,Recall: 0.0/982.0 (0.00%))
+label : 5 ,Recall: 0.0/892.0 (0.00%))
+label : 6 ,Recall: 0.0/958.0 (0.00%))
+label : 7 ,Recall: 0.0/1028.0 (0.00%))
+label : 8 ,Recall: 0.0/974.0 (0.00%))
+label : 9 ,Recall: 1009.0/1009.0 (100.00%))
+======================================================
+round =  2 edge = 0 poison = False Average loss: 2.2980  Accuracy: 11.71%
+round =  2 edge = 1 poison = True Average loss: 2.2723  Accuracy: 16.20%
+round =  2 edge = 2 poison = False Average loss: 2.3000  Accuracy: 11.38%
+round =  2 edge = 3 poison = False Average loss: 2.2998  Accuracy: 10.61%
+round =  2 edge = 4 poison = False Average loss: 2.2993  Accuracy: 11.23%
+round =  2 edge = 5 poison = False Average loss: 2.2998  Accuracy: 11.81%
+round =  2 edge = 6 poison = False Average loss: 2.3009  Accuracy: 10.43%
+round =  2 edge = 7 poison = False Average loss: 2.2992  Accuracy: 11.48%
+round =  2 edge = 8 poison = False Average loss: 2.3000  Accuracy: 11.21%
+round =  2 edge = 9 poison = False Average loss: 2.3001  Accuracy: 10.96%
+round =  2 edge = 10 poison = True Average loss: 2.2590  Accuracy: 17.53%
+round =  2 edge = 11 poison = True Average loss: 2.2886  Accuracy: 13.81%
+round =  2 edge = 12 poison = False Average loss: 2.2990  Accuracy: 10.99%
+round =  2 edge = 13 poison = False Average loss: 2.2998  Accuracy: 11.25%
+round =  2 edge = 14 poison = False Average loss: 2.3011  Accuracy: 11.12%
+round =  2 edge = 15 poison = False Average loss: 2.3003  Accuracy: 12.40%
+round =  2 edge = 16 poison = False Average loss: 2.2998  Accuracy: 12.15%
+round =  2 edge = 17 poison = True Average loss: 2.2327  Accuracy: 20.33%
+round =  2 edge = 18 poison = False Average loss: 2.3008  Accuracy: 10.76%
+round =  2 edge = 19 poison = True Average loss: 2.2683  Accuracy: 15.58%
+Global model result at epoch 2-th
+poisoned: untarget, round: 2 Average loss: 2.2979, Accuracy: 1135.0/10000 (11.35%)
+label : 0 ,Recall: 0.0/980.0 (0.00%))
+label : 1 ,Recall: 1135.0/1135.0 (100.00%))
+label : 2 ,Recall: 0.0/1032.0 (0.00%))
+label : 3 ,Recall: 0.0/1010.0 (0.00%))
+label : 4 ,Recall: 0.0/982.0 (0.00%))
+label : 5 ,Recall: 0.0/892.0 (0.00%))
+label : 6 ,Recall: 0.0/958.0 (0.00%))
+label : 7 ,Recall: 0.0/1028.0 (0.00%))
+label : 8 ,Recall: 0.0/974.0 (0.00%))
+label : 9 ,Recall: 0.0/1009.0 (0.00%))
+======================================================
+round =  3 edge = 0 poison = False Average loss: 2.2919  Accuracy: 11.91%
+round =  3 edge = 1 poison = True Average loss: 2.2530  Accuracy: 15.75%
+round =  3 edge = 2 poison = False Average loss: 2.2934  Accuracy: 13.36%
+round =  3 edge = 3 poison = False Average loss: 2.2935  Accuracy: 13.43%
+round =  3 edge = 4 poison = False Average loss: 2.2924  Accuracy: 12.71%
+round =  3 edge = 5 poison = False Average loss: 2.2922  Accuracy: 11.71%
+round =  3 edge = 6 poison = False Average loss: 2.2941  Accuracy: 15.87%
+round =  3 edge = 7 poison = False Average loss: 2.2925  Accuracy: 12.22%
+round =  3 edge = 8 poison = False Average loss: 2.2928  Accuracy: 13.50%
+round =  3 edge = 9 poison = False Average loss: 2.2933  Accuracy: 16.94%
+round =  3 edge = 10 poison = True Average loss: 2.2783  Accuracy: 15.94%
+round =  3 edge = 11 poison = True Average loss: 2.2764  Accuracy: 13.33%
+round =  3 edge = 12 poison = False Average loss: 2.2930  Accuracy: 14.37%
+round =  3 edge = 13 poison = False Average loss: 2.2930  Accuracy: 11.97%
+round =  3 edge = 14 poison = False Average loss: 2.2949  Accuracy: 11.51%
+round =  3 edge = 15 poison = False Average loss: 2.2938  Accuracy: 12.91%
+round =  3 edge = 16 poison = False Average loss: 2.2934  Accuracy: 13.55%
+round =  3 edge = 17 poison = True Average loss: 2.2948  Accuracy: 13.00%
+round =  3 edge = 18 poison = False Average loss: 2.2942  Accuracy: 11.97%
+round =  3 edge = 19 poison = True Average loss: 2.2658  Accuracy: 18.20%
+Global model result at epoch 3-th
+poisoned: untarget, round: 3 Average loss: 2.2863, Accuracy: 1996.0/10000 (19.96%)
+label : 0 ,Recall: 735.0/980.0 (75.00%))
+label : 1 ,Recall: 1135.0/1135.0 (100.00%))
+label : 2 ,Recall: 0.0/1032.0 (0.00%))
+label : 3 ,Recall: 126.0/1010.0 (12.48%))
+label : 4 ,Recall: 0.0/982.0 (0.00%))
+label : 5 ,Recall: 0.0/892.0 (0.00%))
+label : 6 ,Recall: 0.0/958.0 (0.00%))
+label : 7 ,Recall: 0.0/1028.0 (0.00%))
+label : 8 ,Recall: 0.0/974.0 (0.00%))
+label : 9 ,Recall: 0.0/1009.0 (0.00%))
+======================================================
+round =  4 edge = 0 poison = False Average loss: 2.2328  Accuracy: 24.91%
+round =  4 edge = 1 poison = True Average loss: 2.2535  Accuracy: 19.46%
+round =  4 edge = 2 poison = False Average loss: 2.2302  Accuracy: 24.26%
+round =  4 edge = 3 poison = False Average loss: 2.2306  Accuracy: 27.92%
+round =  4 edge = 4 poison = False Average loss: 2.2304  Accuracy: 24.64%
+round =  4 edge = 5 poison = False Average loss: 2.2144  Accuracy: 27.63%
+round =  4 edge = 6 poison = False Average loss: 2.2275  Accuracy: 25.97%
+round =  4 edge = 7 poison = False Average loss: 2.2325  Accuracy: 23.72%
+round =  4 edge = 8 poison = False Average loss: 2.2281  Accuracy: 23.66%
+round =  4 edge = 9 poison = False Average loss: 2.2261  Accuracy: 28.52%
+round =  4 edge = 10 poison = True Average loss: 2.2556  Accuracy: 16.77%
+round =  4 edge = 11 poison = True Average loss: 2.2620  Accuracy: 15.47%
+round =  4 edge = 12 poison = False Average loss: 2.2285  Accuracy: 24.10%
+round =  4 edge = 13 poison = False Average loss: 2.2312  Accuracy: 23.95%
+round =  4 edge = 14 poison = False Average loss: 2.2356  Accuracy: 28.25%
+round =  4 edge = 15 poison = False Average loss: 2.2284  Accuracy: 24.48%
+round =  4 edge = 16 poison = False Average loss: 2.2295  Accuracy: 22.93%
+round =  4 edge = 17 poison = True Average loss: 2.2618  Accuracy: 14.03%
+round =  4 edge = 18 poison = False Average loss: 2.2324  Accuracy: 27.30%
+round =  4 edge = 19 poison = True Average loss: 2.2735  Accuracy: 14.34%
+Global model result at epoch 4-th
+poisoned: untarget, round: 4 Average loss: 2.1362, Accuracy: 2968.0/10000 (29.68%)
+label : 0 ,Recall: 978.0/980.0 (99.80%))
+label : 1 ,Recall: 1089.0/1135.0 (95.95%))
+label : 2 ,Recall: 0.0/1032.0 (0.00%))
+label : 3 ,Recall: 243.0/1010.0 (24.06%))
+label : 4 ,Recall: 0.0/982.0 (0.00%))
+label : 5 ,Recall: 0.0/892.0 (0.00%))
+label : 6 ,Recall: 0.0/958.0 (0.00%))
+label : 7 ,Recall: 658.0/1028.0 (64.01%))
+label : 8 ,Recall: 0.0/974.0 (0.00%))
+label : 9 ,Recall: 0.0/1009.0 (0.00%))
+======================================================
+round =  5 edge = 0 poison = False Average loss: 1.7496  Accuracy: 44.07%
+round =  5 edge = 1 poison = True Average loss: 2.2749  Accuracy: 12.31%
+round =  5 edge = 2 poison = False Average loss: 1.7638  Accuracy: 42.45%
+round =  5 edge = 3 poison = False Average loss: 1.7685  Accuracy: 42.46%
+round =  5 edge = 4 poison = False Average loss: 1.7735  Accuracy: 43.09%
+round =  5 edge = 5 poison = False Average loss: 1.7513  Accuracy: 43.51%
+round =  5 edge = 6 poison = False Average loss: 1.7648  Accuracy: 42.70%
+round =  5 edge = 7 poison = False Average loss: 1.7687  Accuracy: 41.97%
+round =  5 edge = 8 poison = False Average loss: 1.7615  Accuracy: 43.14%
+round =  5 edge = 9 poison = False Average loss: 1.7583  Accuracy: 42.99%
+round =  5 edge = 10 poison = True Average loss: 2.2783  Accuracy: 14.34%
+round =  5 edge = 11 poison = True Average loss: 2.2496  Accuracy: 14.74%
+round =  5 edge = 12 poison = False Average loss: 1.7547  Accuracy: 42.60%
+round =  5 edge = 13 poison = False Average loss: 1.7639  Accuracy: 42.45%
+round =  5 edge = 14 poison = False Average loss: 1.7713  Accuracy: 42.46%
+round =  5 edge = 15 poison = False Average loss: 1.7628  Accuracy: 41.70%
+round =  5 edge = 16 poison = False Average loss: 1.7622  Accuracy: 42.69%
+round =  5 edge = 17 poison = True Average loss: 2.2724  Accuracy: 13.74%
+round =  5 edge = 18 poison = False Average loss: 1.7658  Accuracy: 41.91%
+round =  5 edge = 19 poison = True Average loss: 2.2311  Accuracy: 16.98%
+Global model result at epoch 5-th
+poisoned: untarget, round: 5 Average loss: 1.3777, Accuracy: 6191.0/10000 (61.91%)
+label : 0 ,Recall: 930.0/980.0 (94.90%))
+label : 1 ,Recall: 1108.0/1135.0 (97.62%))
+label : 2 ,Recall: 222.0/1032.0 (21.51%))
+label : 3 ,Recall: 665.0/1010.0 (65.84%))
+label : 4 ,Recall: 567.0/982.0 (57.74%))
+label : 5 ,Recall: 26.0/892.0 (2.91%))
+label : 6 ,Recall: 752.0/958.0 (78.50%))
+label : 7 ,Recall: 721.0/1028.0 (70.14%))
+label : 8 ,Recall: 779.0/974.0 (79.98%))
+label : 9 ,Recall: 421.0/1009.0 (41.72%))
+======================================================
+round =  6 edge = 0 poison = False Average loss: 0.9870  Accuracy: 68.04%
+round =  6 edge = 1 poison = True Average loss: 2.3424  Accuracy: 13.47%
+round =  6 edge = 2 poison = False Average loss: 0.9953  Accuracy: 67.59%
+round =  6 edge = 3 poison = False Average loss: 1.0081  Accuracy: 66.72%
+round =  6 edge = 4 poison = False Average loss: 1.0113  Accuracy: 67.38%
+round =  6 edge = 5 poison = False Average loss: 0.9928  Accuracy: 67.58%
+round =  6 edge = 6 poison = False Average loss: 1.0092  Accuracy: 66.87%
+round =  6 edge = 7 poison = False Average loss: 1.0034  Accuracy: 67.36%
+round =  6 edge = 8 poison = False Average loss: 0.9984  Accuracy: 67.33%
+round =  6 edge = 9 poison = False Average loss: 1.0047  Accuracy: 67.57%
+round =  6 edge = 10 poison = True Average loss: 2.3212  Accuracy: 16.78%
+round =  6 edge = 11 poison = True Average loss: 2.3580  Accuracy: 12.95%
+round =  6 edge = 12 poison = False Average loss: 0.9842  Accuracy: 68.14%
+round =  6 edge = 13 poison = False Average loss: 0.9937  Accuracy: 68.92%
+round =  6 edge = 14 poison = False Average loss: 1.0096  Accuracy: 67.64%
+round =  6 edge = 15 poison = False Average loss: 1.0054  Accuracy: 66.73%
+round =  6 edge = 16 poison = False Average loss: 1.0048  Accuracy: 67.09%
+round =  6 edge = 17 poison = True Average loss: 2.3447  Accuracy: 13.86%
+round =  6 edge = 18 poison = False Average loss: 1.0087  Accuracy: 67.20%
+round =  6 edge = 19 poison = True Average loss: 2.3398  Accuracy: 15.19%
+Global model result at epoch 6-th
+poisoned: untarget, round: 6 Average loss: 0.8752, Accuracy: 7698.0/10000 (76.98%)
+label : 0 ,Recall: 893.0/980.0 (91.12%))
+label : 1 ,Recall: 1102.0/1135.0 (97.09%))
+label : 2 ,Recall: 704.0/1032.0 (68.22%))
+label : 3 ,Recall: 852.0/1010.0 (84.36%))
+label : 4 ,Recall: 706.0/982.0 (71.89%))
+label : 5 ,Recall: 458.0/892.0 (51.35%))
+label : 6 ,Recall: 837.0/958.0 (87.37%))
+label : 7 ,Recall: 839.0/1028.0 (81.61%))
+label : 8 ,Recall: 660.0/974.0 (67.76%))
+label : 9 ,Recall: 647.0/1009.0 (64.12%))
+======================================================
+round =  7 edge = 0 poison = False Average loss: 0.7458  Accuracy: 76.52%
+round =  7 edge = 1 poison = True Average loss: 2.3931  Accuracy: 15.87%
+round =  7 edge = 2 poison = False Average loss: 0.7559  Accuracy: 76.04%
+round =  7 edge = 3 poison = False Average loss: 0.7621  Accuracy: 76.17%
+round =  7 edge = 4 poison = False Average loss: 0.7711  Accuracy: 75.99%
+round =  7 edge = 5 poison = False Average loss: 0.7495  Accuracy: 76.44%
+round =  7 edge = 6 poison = False Average loss: 0.7655  Accuracy: 76.01%
+round =  7 edge = 7 poison = False Average loss: 0.7596  Accuracy: 75.28%
+round =  7 edge = 8 poison = False Average loss: 0.7470  Accuracy: 76.83%
+round =  7 edge = 9 poison = False Average loss: 0.7705  Accuracy: 75.50%
+round =  7 edge = 10 poison = True Average loss: 2.4337  Accuracy: 14.34%
+round =  7 edge = 11 poison = True Average loss: 2.4534  Accuracy: 13.37%
+round =  7 edge = 12 poison = False Average loss: 0.7503  Accuracy: 75.91%
+round =  7 edge = 13 poison = False Average loss: 0.7555  Accuracy: 76.87%
+round =  7 edge = 14 poison = False Average loss: 0.7634  Accuracy: 76.35%
+round =  7 edge = 15 poison = False Average loss: 0.7563  Accuracy: 76.07%
+round =  7 edge = 16 poison = False Average loss: 0.7570  Accuracy: 76.01%
+round =  7 edge = 17 poison = True Average loss: 2.4683  Accuracy: 11.76%
+round =  7 edge = 18 poison = False Average loss: 0.7677  Accuracy: 75.64%
+round =  7 edge = 19 poison = True Average loss: 2.4551  Accuracy: 12.22%
+Global model result at epoch 7-th
+poisoned: untarget, round: 7 Average loss: 0.7760, Accuracy: 8051.0/10000 (80.51%)
+label : 0 ,Recall: 900.0/980.0 (91.84%))
+label : 1 ,Recall: 1107.0/1135.0 (97.53%))
+label : 2 ,Recall: 725.0/1032.0 (70.25%))
+label : 3 ,Recall: 890.0/1010.0 (88.12%))
+label : 4 ,Recall: 800.0/982.0 (81.47%))
+label : 5 ,Recall: 491.0/892.0 (55.04%))
+label : 6 ,Recall: 877.0/958.0 (91.54%))
+label : 7 ,Recall: 870.0/1028.0 (84.63%))
+label : 8 ,Recall: 685.0/974.0 (70.33%))
+label : 9 ,Recall: 706.0/1009.0 (69.97%))
+======================================================
+round =  8 edge = 0 poison = False Average loss: 0.6611  Accuracy: 80.38%
+round =  8 edge = 1 poison = True Average loss: 2.4901  Accuracy: 13.54%
+round =  8 edge = 2 poison = False Average loss: 0.6837  Accuracy: 79.51%
+round =  8 edge = 3 poison = False Average loss: 0.6709  Accuracy: 80.31%
+round =  8 edge = 4 poison = False Average loss: 0.6930  Accuracy: 79.86%
+round =  8 edge = 5 poison = False Average loss: 0.6742  Accuracy: 80.11%
+round =  8 edge = 6 poison = False Average loss: 0.6794  Accuracy: 79.78%
+round =  8 edge = 7 poison = False Average loss: 0.6741  Accuracy: 79.81%
+round =  8 edge = 8 poison = False Average loss: 0.6652  Accuracy: 80.08%
+round =  8 edge = 9 poison = False Average loss: 0.6847  Accuracy: 80.13%
+round =  8 edge = 10 poison = True Average loss: 2.3746  Accuracy: 20.91%
+round =  8 edge = 11 poison = True Average loss: 2.4317  Accuracy: 13.37%
+round =  8 edge = 12 poison = False Average loss: 0.6674  Accuracy: 80.03%
+round =  8 edge = 13 poison = False Average loss: 0.6721  Accuracy: 80.33%
+round =  8 edge = 14 poison = False Average loss: 0.6788  Accuracy: 79.66%
+round =  8 edge = 15 poison = False Average loss: 0.6644  Accuracy: 79.90%
+round =  8 edge = 16 poison = False Average loss: 0.6736  Accuracy: 79.50%
+round =  8 edge = 17 poison = True Average loss: 2.4497  Accuracy: 15.70%
+round =  8 edge = 18 poison = False Average loss: 0.6820  Accuracy: 79.69%
+round =  8 edge = 19 poison = True Average loss: 2.4860  Accuracy: 13.94%
+Global model result at epoch 8-th
+poisoned: untarget, round: 8 Average loss: 0.7101, Accuracy: 8333.0/10000 (83.33%)
+label : 0 ,Recall: 913.0/980.0 (93.16%))
+label : 1 ,Recall: 1110.0/1135.0 (97.80%))
+label : 2 ,Recall: 818.0/1032.0 (79.26%))
+label : 3 ,Recall: 750.0/1010.0 (74.26%))
+label : 4 ,Recall: 856.0/982.0 (87.17%))
+label : 5 ,Recall: 576.0/892.0 (64.57%))
+label : 6 ,Recall: 898.0/958.0 (93.74%))
+label : 7 ,Recall: 875.0/1028.0 (85.12%))
+label : 8 ,Recall: 766.0/974.0 (78.64%))
+label : 9 ,Recall: 771.0/1009.0 (76.41%))
+======================================================
+round =  9 edge = 0 poison = False Average loss: 0.5854  Accuracy: 83.36%
+round =  9 edge = 1 poison = True Average loss: 2.4691  Accuracy: 12.54%
+round =  9 edge = 2 poison = False Average loss: 0.5994  Accuracy: 82.87%
+round =  9 edge = 3 poison = False Average loss: 0.6074  Accuracy: 82.38%
+round =  9 edge = 4 poison = False Average loss: 0.6119  Accuracy: 82.85%
+round =  9 edge = 5 poison = False Average loss: 0.6136  Accuracy: 83.78%
+round =  9 edge = 6 poison = False Average loss: 0.5985  Accuracy: 82.82%
+round =  9 edge = 7 poison = False Average loss: 0.5966  Accuracy: 82.42%
+round =  9 edge = 8 poison = False Average loss: 0.5955  Accuracy: 82.94%
+round =  9 edge = 9 poison = False Average loss: 0.5970  Accuracy: 83.63%
+round =  9 edge = 10 poison = True Average loss: 2.4256  Accuracy: 14.91%
+round =  9 edge = 11 poison = True Average loss: 2.4686  Accuracy: 12.35%
+round =  9 edge = 12 poison = False Average loss: 0.6016  Accuracy: 83.02%
+round =  9 edge = 13 poison = False Average loss: 0.6029  Accuracy: 83.31%
+round =  9 edge = 14 poison = False Average loss: 0.6105  Accuracy: 82.54%
+round =  9 edge = 15 poison = False Average loss: 0.5918  Accuracy: 83.41%
+round =  9 edge = 16 poison = False Average loss: 0.5858  Accuracy: 84.10%
+round =  9 edge = 17 poison = True Average loss: 2.4899  Accuracy: 14.30%
+round =  9 edge = 18 poison = False Average loss: 0.6139  Accuracy: 82.53%
+round =  9 edge = 19 poison = True Average loss: 2.4404  Accuracy: 13.59%
+Global model result at epoch 9-th
+poisoned: untarget, round: 9 Average loss: 0.6451, Accuracy: 8501.0/10000 (85.01%)
+label : 0 ,Recall: 936.0/980.0 (95.51%))
+label : 1 ,Recall: 1113.0/1135.0 (98.06%))
+label : 2 ,Recall: 834.0/1032.0 (80.81%))
+label : 3 ,Recall: 907.0/1010.0 (89.80%))
+label : 4 ,Recall: 868.0/982.0 (88.39%))
+label : 5 ,Recall: 574.0/892.0 (64.35%))
+label : 6 ,Recall: 899.0/958.0 (93.84%))
+label : 7 ,Recall: 900.0/1028.0 (87.55%))
+label : 8 ,Recall: 658.0/974.0 (67.56%))
+label : 9 ,Recall: 812.0/1009.0 (80.48%))
+======================================================
+round = 10 edge = 0 poison = False Average loss: 0.5223  Accuracy: 85.86%
+round = 10 edge = 1 poison = True Average loss: 2.3985  Accuracy: 15.89%
+round = 10 edge = 2 poison = False Average loss: 0.5376  Accuracy: 84.98%
+round = 10 edge = 3 poison = False Average loss: 0.5289  Accuracy: 85.63%
+round = 10 edge = 4 poison = False Average loss: 0.5436  Accuracy: 84.97%
+round = 10 edge = 5 poison = False Average loss: 0.5069  Accuracy: 85.98%
+round = 10 edge = 6 poison = False Average loss: 0.5308  Accuracy: 85.11%
+round = 10 edge = 7 poison = False Average loss: 0.5340  Accuracy: 85.20%
+round = 10 edge = 8 poison = False Average loss: 0.5354  Accuracy: 85.53%
+round = 10 edge = 9 poison = False Average loss: 0.5319  Accuracy: 85.83%
+round = 10 edge = 10 poison = True Average loss: 2.4406  Accuracy: 14.28%
+round = 10 edge = 11 poison = True Average loss: 2.4225  Accuracy: 14.21%
+round = 10 edge = 12 poison = False Average loss: 0.5317  Accuracy: 85.44%
+round = 10 edge = 13 poison = False Average loss: 0.5319  Accuracy: 85.60%
+round = 10 edge = 14 poison = False Average loss: 0.5391  Accuracy: 84.94%
+round = 10 edge = 15 poison = False Average loss: 0.5241  Accuracy: 85.66%
+round = 10 edge = 16 poison = False Average loss: 0.5233  Accuracy: 85.73%
+round = 10 edge = 17 poison = True Average loss: 2.4451  Accuracy: 13.33%
+round = 10 edge = 18 poison = False Average loss: 0.5416  Accuracy: 84.76%
+round = 10 edge = 19 poison = True Average loss: 2.4526  Accuracy: 12.90%
+Global model result at epoch 10-th
+poisoned: untarget, round: 10 Average loss: 0.5997, Accuracy: 8495.0/10000 (84.95%)
+label : 0 ,Recall: 944.0/980.0 (96.33%))
+label : 1 ,Recall: 1121.0/1135.0 (98.77%))
+label : 2 ,Recall: 846.0/1032.0 (81.98%))
+label : 3 ,Recall: 851.0/1010.0 (84.26%))
+label : 4 ,Recall: 925.0/982.0 (94.20%))
+label : 5 ,Recall: 655.0/892.0 (73.43%))
+label : 6 ,Recall: 911.0/958.0 (95.09%))
+label : 7 ,Recall: 927.0/1028.0 (90.18%))
+label : 8 ,Recall: 635.0/974.0 (65.20%))
+label : 9 ,Recall: 680.0/1009.0 (67.39%))
+======================================================
+round = 11 edge = 0 poison = False Average loss: 0.4766  Accuracy: 87.01%
+round = 11 edge = 1 poison = True Average loss: 2.4167  Accuracy: 14.59%
+round = 11 edge = 2 poison = False Average loss: 0.4818  Accuracy: 86.43%
+round = 11 edge = 3 poison = False Average loss: 0.4828  Accuracy: 86.84%
+round = 11 edge = 4 poison = False Average loss: 0.4919  Accuracy: 86.26%
+round = 11 edge = 5 poison = False Average loss: 0.4728  Accuracy: 87.10%
+round = 11 edge = 6 poison = False Average loss: 0.4814  Accuracy: 86.44%
+round = 11 edge = 7 poison = False Average loss: 0.4829  Accuracy: 86.69%
+round = 11 edge = 8 poison = False Average loss: 0.4932  Accuracy: 86.55%
+round = 11 edge = 9 poison = False Average loss: 0.4901  Accuracy: 87.05%
+round = 11 edge = 10 poison = True Average loss: 2.4013  Accuracy: 16.24%
+round = 11 edge = 11 poison = True Average loss: 2.4060  Accuracy: 15.45%
+round = 11 edge = 12 poison = False Average loss: 0.4842  Accuracy: 86.54%
+round = 11 edge = 13 poison = False Average loss: 0.4852  Accuracy: 87.31%
+round = 11 edge = 14 poison = False Average loss: 0.4855  Accuracy: 87.63%
+round = 11 edge = 15 poison = False Average loss: 0.4790  Accuracy: 87.04%
+round = 11 edge = 16 poison = False Average loss: 0.4783  Accuracy: 87.18%
+round = 11 edge = 17 poison = True Average loss: 2.4256  Accuracy: 15.43%
+round = 11 edge = 18 poison = False Average loss: 0.4807  Accuracy: 86.77%
+round = 11 edge = 19 poison = True Average loss: 2.4464  Accuracy: 12.59%
+Global model result at epoch 11-th
+poisoned: untarget, round: 11 Average loss: 0.5740, Accuracy: 8569.0/10000 (85.69%)
+label : 0 ,Recall: 933.0/980.0 (95.20%))
+label : 1 ,Recall: 1124.0/1135.0 (99.03%))
+label : 2 ,Recall: 888.0/1032.0 (86.05%))
+label : 3 ,Recall: 871.0/1010.0 (86.24%))
+label : 4 ,Recall: 896.0/982.0 (91.24%))
+label : 5 ,Recall: 648.0/892.0 (72.65%))
+label : 6 ,Recall: 917.0/958.0 (95.72%))
+label : 7 ,Recall: 951.0/1028.0 (92.51%))
+label : 8 ,Recall: 565.0/974.0 (58.01%))
+label : 9 ,Recall: 776.0/1009.0 (76.91%))
+======================================================
+round = 12 edge = 0 poison = False Average loss: 0.4427  Accuracy: 87.92%
+round = 12 edge = 1 poison = True Average loss: 2.4344  Accuracy: 14.47%
+round = 12 edge = 2 poison = False Average loss: 0.4523  Accuracy: 87.56%
+round = 12 edge = 3 poison = False Average loss: 0.4407  Accuracy: 88.15%
+round = 12 edge = 4 poison = False Average loss: 0.4644  Accuracy: 87.22%
+round = 12 edge = 5 poison = False Average loss: 0.4476  Accuracy: 88.22%
+round = 12 edge = 6 poison = False Average loss: 0.4523  Accuracy: 87.14%
+round = 12 edge = 7 poison = False Average loss: 0.4550  Accuracy: 87.18%
+round = 12 edge = 8 poison = False Average loss: 0.4539  Accuracy: 87.85%
+round = 12 edge = 9 poison = False Average loss: 0.4620  Accuracy: 87.63%
+round = 12 edge = 10 poison = True Average loss: 2.3690  Accuracy: 15.75%
+round = 12 edge = 11 poison = True Average loss: 2.4112  Accuracy: 14.53%
+round = 12 edge = 12 poison = False Average loss: 0.4538  Accuracy: 87.15%
+round = 12 edge = 13 poison = False Average loss: 0.4519  Accuracy: 88.35%
+round = 12 edge = 14 poison = False Average loss: 0.4569  Accuracy: 87.75%
+round = 12 edge = 15 poison = False Average loss: 0.4465  Accuracy: 87.74%
+round = 12 edge = 16 poison = False Average loss: 0.4476  Accuracy: 87.64%
+round = 12 edge = 17 poison = True Average loss: 2.3944  Accuracy: 17.38%
+round = 12 edge = 18 poison = False Average loss: 0.4626  Accuracy: 87.21%
+round = 12 edge = 19 poison = True Average loss: 2.4186  Accuracy: 13.57%
+Global model result at epoch 12-th
+poisoned: untarget, round: 12 Average loss: 0.5628, Accuracy: 8608.0/10000 (86.08%)
+label : 0 ,Recall: 940.0/980.0 (95.92%))
+label : 1 ,Recall: 1123.0/1135.0 (98.94%))
+label : 2 ,Recall: 872.0/1032.0 (84.50%))
+label : 3 ,Recall: 782.0/1010.0 (77.43%))
+label : 4 ,Recall: 897.0/982.0 (91.34%))
+label : 5 ,Recall: 655.0/892.0 (73.43%))
+label : 6 ,Recall: 935.0/958.0 (97.60%))
+label : 7 ,Recall: 938.0/1028.0 (91.25%))
+label : 8 ,Recall: 738.0/974.0 (75.77%))
+label : 9 ,Recall: 728.0/1009.0 (72.15%))
+======================================================
+round = 13 edge = 0 poison = False Average loss: 0.4201  Accuracy: 88.32%
+round = 13 edge = 1 poison = True Average loss: 2.3895  Accuracy: 14.69%
+round = 13 edge = 2 poison = False Average loss: 0.4208  Accuracy: 88.36%
+round = 13 edge = 3 poison = False Average loss: 0.4159  Accuracy: 89.12%
+round = 13 edge = 4 poison = False Average loss: 0.4327  Accuracy: 88.05%
+round = 13 edge = 5 poison = False Average loss: 0.4031  Accuracy: 88.71%
+round = 13 edge = 6 poison = False Average loss: 0.4204  Accuracy: 88.19%
+round = 13 edge = 7 poison = False Average loss: 0.4280  Accuracy: 88.25%
+round = 13 edge = 8 poison = False Average loss: 0.4268  Accuracy: 88.43%
+round = 13 edge = 9 poison = False Average loss: 0.4384  Accuracy: 87.35%
+round = 13 edge = 10 poison = True Average loss: 2.4249  Accuracy: 11.89%
+round = 13 edge = 11 poison = True Average loss: 2.4238  Accuracy: 12.55%
+round = 13 edge = 12 poison = False Average loss: 0.4312  Accuracy: 87.99%
+round = 13 edge = 13 poison = False Average loss: 0.4304  Accuracy: 88.19%
+round = 13 edge = 14 poison = False Average loss: 0.4309  Accuracy: 88.35%
+round = 13 edge = 15 poison = False Average loss: 0.4188  Accuracy: 88.86%
+round = 13 edge = 16 poison = False Average loss: 0.4157  Accuracy: 88.84%
+round = 13 edge = 17 poison = True Average loss: 2.3926  Accuracy: 13.96%
+round = 13 edge = 18 poison = False Average loss: 0.4265  Accuracy: 88.05%
+round = 13 edge = 19 poison = True Average loss: 2.3526  Accuracy: 13.45%
+Global model result at epoch 13-th
+poisoned: untarget, round: 13 Average loss: 0.5560, Accuracy: 8582.0/10000 (85.82%)
+label : 0 ,Recall: 942.0/980.0 (96.12%))
+label : 1 ,Recall: 1123.0/1135.0 (98.94%))
+label : 2 ,Recall: 880.0/1032.0 (85.27%))
+label : 3 ,Recall: 838.0/1010.0 (82.97%))
+label : 4 ,Recall: 923.0/982.0 (93.99%))
+label : 5 ,Recall: 678.0/892.0 (76.01%))
+label : 6 ,Recall: 934.0/958.0 (97.49%))
+label : 7 ,Recall: 976.0/1028.0 (94.94%))
+label : 8 ,Recall: 583.0/974.0 (59.86%))
+label : 9 ,Recall: 705.0/1009.0 (69.87%))
+======================================================
+round = 14 edge = 0 poison = False Average loss: 0.3914  Accuracy: 89.16%
+round = 14 edge = 1 poison = True Average loss: 2.3702  Accuracy: 14.26%
+round = 14 edge = 2 poison = False Average loss: 0.3986  Accuracy: 88.88%
+round = 14 edge = 3 poison = False Average loss: 0.3871  Accuracy: 89.65%
+round = 14 edge = 4 poison = False Average loss: 0.4003  Accuracy: 88.80%
+round = 14 edge = 5 poison = False Average loss: 0.3769  Accuracy: 89.31%
+round = 14 edge = 6 poison = False Average loss: 0.4024  Accuracy: 88.61%
+round = 14 edge = 7 poison = False Average loss: 0.3990  Accuracy: 88.57%
+round = 14 edge = 8 poison = False Average loss: 0.4010  Accuracy: 89.13%
+round = 14 edge = 9 poison = False Average loss: 0.4002  Accuracy: 88.86%
+round = 14 edge = 10 poison = True Average loss: 2.4075  Accuracy: 17.71%
+round = 14 edge = 11 poison = True Average loss: 2.3964  Accuracy: 13.54%
+round = 14 edge = 12 poison = False Average loss: 0.4031  Accuracy: 89.03%
+round = 14 edge = 13 poison = False Average loss: 0.4006  Accuracy: 89.17%
+round = 14 edge = 14 poison = False Average loss: 0.4051  Accuracy: 88.84%
+round = 14 edge = 15 poison = False Average loss: 0.3945  Accuracy: 89.14%
+round = 14 edge = 16 poison = False Average loss: 0.3910  Accuracy: 89.49%
+round = 14 edge = 17 poison = True Average loss: 2.3361  Accuracy: 18.71%
+round = 14 edge = 18 poison = False Average loss: 0.4013  Accuracy: 88.51%
+round = 14 edge = 19 poison = True Average loss: 2.3906  Accuracy: 16.05%
+Global model result at epoch 14-th
+poisoned: untarget, round: 14 Average loss: 0.5301, Accuracy: 8657.0/10000 (86.57%)
+label : 0 ,Recall: 949.0/980.0 (96.84%))
+label : 1 ,Recall: 1122.0/1135.0 (98.85%))
+label : 2 ,Recall: 870.0/1032.0 (84.30%))
+label : 3 ,Recall: 833.0/1010.0 (82.48%))
+label : 4 ,Recall: 934.0/982.0 (95.11%))
+label : 5 ,Recall: 722.0/892.0 (80.94%))
+label : 6 ,Recall: 928.0/958.0 (96.87%))
+label : 7 ,Recall: 969.0/1028.0 (94.26%))
+label : 8 ,Recall: 643.0/974.0 (66.02%))
+label : 9 ,Recall: 687.0/1009.0 (68.09%))
+======================================================
+round = 15 edge = 0 poison = False Average loss: 0.3711  Accuracy: 89.49%
+round = 15 edge = 1 poison = True Average loss: 2.3455  Accuracy: 16.17%
+round = 15 edge = 2 poison = False Average loss: 0.3796  Accuracy: 89.37%
+round = 15 edge = 3 poison = False Average loss: 0.3692  Accuracy: 90.35%
+round = 15 edge = 4 poison = False Average loss: 0.3871  Accuracy: 88.96%
+round = 15 edge = 5 poison = False Average loss: 0.3776  Accuracy: 89.92%
+round = 15 edge = 6 poison = False Average loss: 0.3764  Accuracy: 89.55%
+round = 15 edge = 7 poison = False Average loss: 0.3813  Accuracy: 89.15%
+round = 15 edge = 8 poison = False Average loss: 0.3878  Accuracy: 89.64%
+round = 15 edge = 9 poison = False Average loss: 0.3803  Accuracy: 89.79%
+round = 15 edge = 10 poison = True Average loss: 2.3025  Accuracy: 15.73%
+round = 15 edge = 11 poison = True Average loss: 2.3742  Accuracy: 13.49%
+round = 15 edge = 12 poison = False Average loss: 0.3744  Accuracy: 90.15%
+round = 15 edge = 13 poison = False Average loss: 0.3822  Accuracy: 89.64%
+round = 15 edge = 14 poison = False Average loss: 0.3821  Accuracy: 89.53%
+round = 15 edge = 15 poison = False Average loss: 0.3779  Accuracy: 89.66%
+round = 15 edge = 16 poison = False Average loss: 0.3730  Accuracy: 89.77%
+round = 15 edge = 17 poison = True Average loss: 2.3673  Accuracy: 14.49%
+round = 15 edge = 18 poison = False Average loss: 0.3783  Accuracy: 89.15%
+round = 15 edge = 19 poison = True Average loss: 2.3824  Accuracy: 16.14%
+Global model result at epoch 15-th
+poisoned: untarget, round: 15 Average loss: 0.4919, Accuracy: 8876.0/10000 (88.76%)
+label : 0 ,Recall: 939.0/980.0 (95.82%))
+label : 1 ,Recall: 1124.0/1135.0 (99.03%))
+label : 2 ,Recall: 894.0/1032.0 (86.63%))
+label : 3 ,Recall: 891.0/1010.0 (88.22%))
+label : 4 ,Recall: 914.0/982.0 (93.08%))
+label : 5 ,Recall: 687.0/892.0 (77.02%))
+label : 6 ,Recall: 936.0/958.0 (97.70%))
+label : 7 ,Recall: 956.0/1028.0 (93.00%))
+label : 8 ,Recall: 740.0/974.0 (75.98%))
+label : 9 ,Recall: 795.0/1009.0 (78.79%))
+======================================================
+round = 16 edge = 0 poison = False Average loss: 0.3484  Accuracy: 90.24%
+round = 16 edge = 1 poison = True Average loss: 2.3960  Accuracy: 12.77%
+round = 16 edge = 2 poison = False Average loss: 0.3605  Accuracy: 89.72%
+round = 16 edge = 3 poison = False Average loss: 0.3498  Accuracy: 90.73%
+round = 16 edge = 4 poison = False Average loss: 0.3634  Accuracy: 89.72%
+round = 16 edge = 5 poison = False Average loss: 0.3573  Accuracy: 90.19%
+round = 16 edge = 6 poison = False Average loss: 0.3545  Accuracy: 89.92%
+round = 16 edge = 7 poison = False Average loss: 0.3628  Accuracy: 89.96%
+round = 16 edge = 8 poison = False Average loss: 0.3613  Accuracy: 89.93%
+round = 16 edge = 9 poison = False Average loss: 0.3689  Accuracy: 89.60%
+round = 16 edge = 10 poison = True Average loss: 2.3887  Accuracy: 12.59%
+round = 16 edge = 11 poison = True Average loss: 2.3715  Accuracy: 12.55%
+round = 16 edge = 12 poison = False Average loss: 0.3570  Accuracy: 89.97%
+round = 16 edge = 13 poison = False Average loss: 0.3679  Accuracy: 89.85%
+round = 16 edge = 14 poison = False Average loss: 0.3612  Accuracy: 90.55%
+round = 16 edge = 15 poison = False Average loss: 0.3518  Accuracy: 90.66%
+round = 16 edge = 16 poison = False Average loss: 0.3512  Accuracy: 90.56%
+round = 16 edge = 17 poison = True Average loss: 2.3814  Accuracy: 14.96%
+round = 16 edge = 18 poison = False Average loss: 0.3662  Accuracy: 89.84%
+round = 16 edge = 19 poison = True Average loss: 2.3586  Accuracy: 14.92%
+Global model result at epoch 16-th
+poisoned: untarget, round: 16 Average loss: 0.5118, Accuracy: 8786.0/10000 (87.86%)
+label : 0 ,Recall: 946.0/980.0 (96.53%))
+label : 1 ,Recall: 1123.0/1135.0 (98.94%))
+label : 2 ,Recall: 900.0/1032.0 (87.21%))
+label : 3 ,Recall: 826.0/1010.0 (81.78%))
+label : 4 ,Recall: 930.0/982.0 (94.70%))
+label : 5 ,Recall: 727.0/892.0 (81.50%))
+label : 6 ,Recall: 933.0/958.0 (97.39%))
+label : 7 ,Recall: 969.0/1028.0 (94.26%))
+label : 8 ,Recall: 654.0/974.0 (67.15%))
+label : 9 ,Recall: 778.0/1009.0 (77.11%))
+======================================================
+round = 17 edge = 0 poison = False Average loss: 0.3397  Accuracy: 90.86%
+round = 17 edge = 1 poison = True Average loss: 2.3786  Accuracy: 13.36%
+round = 17 edge = 2 poison = False Average loss: 0.3443  Accuracy: 90.70%
+round = 17 edge = 3 poison = False Average loss: 0.3307  Accuracy: 91.06%
+round = 17 edge = 4 poison = False Average loss: 0.3448  Accuracy: 89.86%
+round = 17 edge = 5 poison = False Average loss: 0.3296  Accuracy: 90.47%
+round = 17 edge = 6 poison = False Average loss: 0.3411  Accuracy: 90.46%
+round = 17 edge = 7 poison = False Average loss: 0.3442  Accuracy: 89.90%
+round = 17 edge = 8 poison = False Average loss: 0.3471  Accuracy: 90.88%
+round = 17 edge = 9 poison = False Average loss: 0.3476  Accuracy: 90.39%
+round = 17 edge = 10 poison = True Average loss: 2.3355  Accuracy: 14.41%
+round = 17 edge = 11 poison = True Average loss: 2.3340  Accuracy: 17.96%
+round = 17 edge = 12 poison = False Average loss: 0.3396  Accuracy: 90.53%
+round = 17 edge = 13 poison = False Average loss: 0.3471  Accuracy: 90.53%
+round = 17 edge = 14 poison = False Average loss: 0.3492  Accuracy: 90.39%
+round = 17 edge = 15 poison = False Average loss: 0.3456  Accuracy: 90.57%
+round = 17 edge = 16 poison = False Average loss: 0.3393  Accuracy: 90.98%
+round = 17 edge = 17 poison = True Average loss: 2.3259  Accuracy: 13.79%
+round = 17 edge = 18 poison = False Average loss: 0.3497  Accuracy: 90.06%
+round = 17 edge = 19 poison = True Average loss: 2.3687  Accuracy: 13.38%
+Global model result at epoch 17-th
+poisoned: untarget, round: 17 Average loss: 0.5020, Accuracy: 8800.0/10000 (88.00%)
+label : 0 ,Recall: 947.0/980.0 (96.63%))
+label : 1 ,Recall: 1125.0/1135.0 (99.12%))
+label : 2 ,Recall: 923.0/1032.0 (89.44%))
+label : 3 ,Recall: 889.0/1010.0 (88.02%))
+label : 4 ,Recall: 932.0/982.0 (94.91%))
+label : 5 ,Recall: 660.0/892.0 (73.99%))
+label : 6 ,Recall: 936.0/958.0 (97.70%))
+label : 7 ,Recall: 953.0/1028.0 (92.70%))
+label : 8 ,Recall: 662.0/974.0 (67.97%))
+label : 9 ,Recall: 773.0/1009.0 (76.61%))
+======================================================
+round = 18 edge = 0 poison = False Average loss: 0.3201  Accuracy: 91.17%
+round = 18 edge = 1 poison = True Average loss: 2.3723  Accuracy: 12.94%
+round = 18 edge = 2 poison = False Average loss: 0.3241  Accuracy: 91.22%
+round = 18 edge = 3 poison = False Average loss: 0.3153  Accuracy: 91.93%
+round = 18 edge = 4 poison = False Average loss: 0.3339  Accuracy: 90.25%
+round = 18 edge = 5 poison = False Average loss: 0.3155  Accuracy: 90.94%
+round = 18 edge = 6 poison = False Average loss: 0.3274  Accuracy: 90.44%
+round = 18 edge = 7 poison = False Average loss: 0.3285  Accuracy: 91.01%
+round = 18 edge = 8 poison = False Average loss: 0.3558  Accuracy: 90.67%
+round = 18 edge = 9 poison = False Average loss: 0.3308  Accuracy: 90.58%
+round = 18 edge = 10 poison = True Average loss: 2.3086  Accuracy: 17.66%
+round = 18 edge = 11 poison = True Average loss: 2.3239  Accuracy: 16.51%
+round = 18 edge = 12 poison = False Average loss: 0.3268  Accuracy: 90.72%
+round = 18 edge = 13 poison = False Average loss: 0.3363  Accuracy: 90.92%
+round = 18 edge = 14 poison = False Average loss: 0.3357  Accuracy: 90.62%
+round = 18 edge = 15 poison = False Average loss: 0.3274  Accuracy: 91.32%
+round = 18 edge = 16 poison = False Average loss: 0.3273  Accuracy: 90.92%
+round = 18 edge = 17 poison = True Average loss: 2.3488  Accuracy: 13.95%
+round = 18 edge = 18 poison = False Average loss: 0.3342  Accuracy: 90.54%
+round = 18 edge = 19 poison = True Average loss: 2.3898  Accuracy: 12.64%
+Global model result at epoch 18-th
+poisoned: untarget, round: 18 Average loss: 0.4823, Accuracy: 8923.0/10000 (89.23%)
+label : 0 ,Recall: 959.0/980.0 (97.86%))
+label : 1 ,Recall: 1125.0/1135.0 (99.12%))
+label : 2 ,Recall: 879.0/1032.0 (85.17%))
+label : 3 ,Recall: 845.0/1010.0 (83.66%))
+label : 4 ,Recall: 935.0/982.0 (95.21%))
+label : 5 ,Recall: 758.0/892.0 (84.98%))
+label : 6 ,Recall: 930.0/958.0 (97.08%))
+label : 7 ,Recall: 970.0/1028.0 (94.36%))
+label : 8 ,Recall: 732.0/974.0 (75.15%))
+label : 9 ,Recall: 790.0/1009.0 (78.30%))
+======================================================
+round = 19 edge = 0 poison = False Average loss: 0.3049  Accuracy: 91.61%
+round = 19 edge = 1 poison = True Average loss: 2.3522  Accuracy: 15.17%
+round = 19 edge = 2 poison = False Average loss: 0.3141  Accuracy: 91.62%
+round = 19 edge = 3 poison = False Average loss: 0.3044  Accuracy: 91.83%
+round = 19 edge = 4 poison = False Average loss: 0.3217  Accuracy: 90.37%
+round = 19 edge = 5 poison = False Average loss: 0.2951  Accuracy: 91.57%
+round = 19 edge = 6 poison = False Average loss: 0.3077  Accuracy: 91.00%
+round = 19 edge = 7 poison = False Average loss: 0.3162  Accuracy: 90.97%
+round = 19 edge = 8 poison = False Average loss: 0.3189  Accuracy: 91.20%
+round = 19 edge = 9 poison = False Average loss: 0.3195  Accuracy: 91.14%
+round = 19 edge = 10 poison = True Average loss: 2.3477  Accuracy: 14.37%
+round = 19 edge = 11 poison = True Average loss: 2.3778  Accuracy: 13.37%
+round = 19 edge = 12 poison = False Average loss: 0.3124  Accuracy: 91.53%
+round = 19 edge = 13 poison = False Average loss: 0.3150  Accuracy: 91.29%
+round = 19 edge = 14 poison = False Average loss: 0.3195  Accuracy: 91.20%
+round = 19 edge = 15 poison = False Average loss: 0.3190  Accuracy: 91.53%
+round = 19 edge = 16 poison = False Average loss: 0.3151  Accuracy: 91.34%
+round = 19 edge = 17 poison = True Average loss: 2.3348  Accuracy: 15.35%
+round = 19 edge = 18 poison = False Average loss: 0.3145  Accuracy: 91.22%
+round = 19 edge = 19 poison = True Average loss: 2.3604  Accuracy: 14.06%
+Global model result at epoch 19-th
+poisoned: untarget, round: 19 Average loss: 0.4784, Accuracy: 8903.0/10000 (89.03%)
+label : 0 ,Recall: 954.0/980.0 (97.35%))
+label : 1 ,Recall: 1125.0/1135.0 (99.12%))
+label : 2 ,Recall: 920.0/1032.0 (89.15%))
+label : 3 ,Recall: 890.0/1010.0 (88.12%))
+label : 4 ,Recall: 936.0/982.0 (95.32%))
+label : 5 ,Recall: 704.0/892.0 (78.92%))
+label : 6 ,Recall: 937.0/958.0 (97.81%))
+label : 7 ,Recall: 973.0/1028.0 (94.65%))
+label : 8 ,Recall: 753.0/974.0 (77.31%))
+label : 9 ,Recall: 711.0/1009.0 (70.47%))
+======================================================
+round = 20 edge = 0 poison = False Average loss: 0.2914  Accuracy: 91.70%
+round = 20 edge = 1 poison = True Average loss: 2.3389  Accuracy: 13.19%
+round = 20 edge = 2 poison = False Average loss: 0.2968  Accuracy: 91.90%
+round = 20 edge = 3 poison = False Average loss: 0.2886  Accuracy: 92.28%
+round = 20 edge = 4 poison = False Average loss: 0.3061  Accuracy: 91.25%
+round = 20 edge = 5 poison = False Average loss: 0.2907  Accuracy: 91.86%
+round = 20 edge = 6 poison = False Average loss: 0.2986  Accuracy: 91.75%
+round = 20 edge = 7 poison = False Average loss: 0.3056  Accuracy: 91.55%
+round = 20 edge = 8 poison = False Average loss: 0.3044  Accuracy: 91.79%
+round = 20 edge = 9 poison = False Average loss: 0.3032  Accuracy: 91.56%
+round = 20 edge = 10 poison = True Average loss: 2.3018  Accuracy: 16.45%
+round = 20 edge = 11 poison = True Average loss: 2.3347  Accuracy: 16.30%
+round = 20 edge = 12 poison = False Average loss: 0.3037  Accuracy: 91.56%
+round = 20 edge = 13 poison = False Average loss: 0.3059  Accuracy: 91.50%
+round = 20 edge = 14 poison = False Average loss: 0.3036  Accuracy: 91.80%
+round = 20 edge = 15 poison = False Average loss: 0.3057  Accuracy: 91.97%
+round = 20 edge = 16 poison = False Average loss: 0.2992  Accuracy: 91.76%
+round = 20 edge = 17 poison = True Average loss: 2.3474  Accuracy: 17.10%
+round = 20 edge = 18 poison = False Average loss: 0.3091  Accuracy: 91.50%
+round = 20 edge = 19 poison = True Average loss: 2.2680  Accuracy: 15.89%
+Global model result at epoch 20-th
+poisoned: untarget, round: 20 Average loss: 0.4379, Accuracy: 9083.0/10000 (90.83%)
+label : 0 ,Recall: 956.0/980.0 (97.55%))
+label : 1 ,Recall: 1118.0/1135.0 (98.50%))
+label : 2 ,Recall: 885.0/1032.0 (85.76%))
+label : 3 ,Recall: 902.0/1010.0 (89.31%))
+label : 4 ,Recall: 939.0/982.0 (95.62%))
+label : 5 ,Recall: 746.0/892.0 (83.63%))
+label : 6 ,Recall: 932.0/958.0 (97.29%))
+label : 7 ,Recall: 967.0/1028.0 (94.07%))
+label : 8 ,Recall: 775.0/974.0 (79.57%))
+label : 9 ,Recall: 863.0/1009.0 (85.53%))
+======================================================
+round = 21 edge = 0 poison = False Average loss: 0.2763  Accuracy: 92.55%
+round = 21 edge = 1 poison = True Average loss: 2.3334  Accuracy: 13.33%
+round = 21 edge = 2 poison = False Average loss: 0.2804  Accuracy: 92.28%
+round = 21 edge = 3 poison = False Average loss: 0.2719  Accuracy: 92.81%
+round = 21 edge = 4 poison = False Average loss: 0.2915  Accuracy: 91.85%
+round = 21 edge = 5 poison = False Average loss: 0.2643  Accuracy: 92.59%
+round = 21 edge = 6 poison = False Average loss: 0.2856  Accuracy: 92.17%
+round = 21 edge = 7 poison = False Average loss: 0.2900  Accuracy: 92.20%
+round = 21 edge = 8 poison = False Average loss: 0.2877  Accuracy: 92.09%
+round = 21 edge = 9 poison = False Average loss: 0.2990  Accuracy: 91.63%
+round = 21 edge = 10 poison = True Average loss: 2.3597  Accuracy: 13.30%
+round = 21 edge = 11 poison = True Average loss: 2.3337  Accuracy: 13.67%
+round = 21 edge = 12 poison = False Average loss: 0.2817  Accuracy: 92.21%
+round = 21 edge = 13 poison = False Average loss: 0.2941  Accuracy: 92.02%
+round = 21 edge = 14 poison = False Average loss: 0.2917  Accuracy: 92.01%
+round = 21 edge = 15 poison = False Average loss: 0.2872  Accuracy: 92.54%
+round = 21 edge = 16 poison = False Average loss: 0.2965  Accuracy: 91.99%
+round = 21 edge = 17 poison = True Average loss: 2.3541  Accuracy: 13.07%
+round = 21 edge = 18 poison = False Average loss: 0.2913  Accuracy: 91.71%
+round = 21 edge = 19 poison = True Average loss: 2.3129  Accuracy: 16.63%
+Global model result at epoch 21-th
+poisoned: untarget, round: 21 Average loss: 0.4672, Accuracy: 8963.0/10000 (89.63%)
+label : 0 ,Recall: 954.0/980.0 (97.35%))
+label : 1 ,Recall: 1125.0/1135.0 (99.12%))
+label : 2 ,Recall: 896.0/1032.0 (86.82%))
+label : 3 ,Recall: 906.0/1010.0 (89.70%))
+label : 4 ,Recall: 947.0/982.0 (96.44%))
+label : 5 ,Recall: 762.0/892.0 (85.43%))
+label : 6 ,Recall: 935.0/958.0 (97.60%))
+label : 7 ,Recall: 968.0/1028.0 (94.16%))
+label : 8 ,Recall: 727.0/974.0 (74.64%))
+label : 9 ,Recall: 743.0/1009.0 (73.64%))
+======================================================
+round = 22 edge = 0 poison = False Average loss: 0.2726  Accuracy: 92.57%
+round = 22 edge = 1 poison = True Average loss: 2.3389  Accuracy: 14.69%
+round = 22 edge = 2 poison = False Average loss: 0.2739  Accuracy: 92.47%
+round = 22 edge = 3 poison = False Average loss: 0.2693  Accuracy: 92.79%
+round = 22 edge = 4 poison = False Average loss: 0.2830  Accuracy: 91.72%
+round = 22 edge = 5 poison = False Average loss: 0.2600  Accuracy: 92.38%
+round = 22 edge = 6 poison = False Average loss: 0.2799  Accuracy: 92.08%
+round = 22 edge = 7 poison = False Average loss: 0.2796  Accuracy: 92.06%
+round = 22 edge = 8 poison = False Average loss: 0.2799  Accuracy: 92.39%
+round = 22 edge = 9 poison = False Average loss: 0.2813  Accuracy: 91.98%
+round = 22 edge = 10 poison = True Average loss: 2.2277  Accuracy: 22.06%
+round = 22 edge = 11 poison = True Average loss: 2.3421  Accuracy: 13.81%
+round = 22 edge = 12 poison = False Average loss: 0.2775  Accuracy: 92.40%
+round = 22 edge = 13 poison = False Average loss: 0.2871  Accuracy: 91.86%
+round = 22 edge = 14 poison = False Average loss: 0.2834  Accuracy: 91.67%
+round = 22 edge = 15 poison = False Average loss: 0.2758  Accuracy: 92.51%
+round = 22 edge = 16 poison = False Average loss: 0.2821  Accuracy: 92.08%
+round = 22 edge = 17 poison = True Average loss: 2.3461  Accuracy: 14.87%
+round = 22 edge = 18 poison = False Average loss: 0.2819  Accuracy: 92.34%
+round = 22 edge = 19 poison = True Average loss: 2.3682  Accuracy: 13.22%
+Global model result at epoch 22-th
+poisoned: untarget, round: 22 Average loss: 0.4458, Accuracy: 9071.0/10000 (90.71%)
+label : 0 ,Recall: 960.0/980.0 (97.96%))
+label : 1 ,Recall: 1125.0/1135.0 (99.12%))
+label : 2 ,Recall: 928.0/1032.0 (89.92%))
+label : 3 ,Recall: 933.0/1010.0 (92.38%))
+label : 4 ,Recall: 940.0/982.0 (95.72%))
+label : 5 ,Recall: 702.0/892.0 (78.70%))
+label : 6 ,Recall: 931.0/958.0 (97.18%))
+label : 7 ,Recall: 977.0/1028.0 (95.04%))
+label : 8 ,Recall: 752.0/974.0 (77.21%))
+label : 9 ,Recall: 823.0/1009.0 (81.57%))
+======================================================
+round = 23 edge = 0 poison = False Average loss: 0.2536  Accuracy: 93.13%
+round = 23 edge = 1 poison = True Average loss: 2.2872  Accuracy: 14.94%
+round = 23 edge = 2 poison = False Average loss: 0.2640  Accuracy: 92.65%
+round = 23 edge = 3 poison = False Average loss: 0.2505  Accuracy: 93.30%
+round = 23 edge = 4 poison = False Average loss: 0.2654  Accuracy: 92.74%
+round = 23 edge = 5 poison = False Average loss: 0.2442  Accuracy: 93.17%
+round = 23 edge = 6 poison = False Average loss: 0.2622  Accuracy: 92.49%
+round = 23 edge = 7 poison = False Average loss: 0.2732  Accuracy: 92.64%
+round = 23 edge = 8 poison = False Average loss: 0.2666  Accuracy: 92.62%
+round = 23 edge = 9 poison = False Average loss: 0.2718  Accuracy: 92.30%
+round = 23 edge = 10 poison = True Average loss: 2.3470  Accuracy: 13.41%
+round = 23 edge = 11 poison = True Average loss: 2.3381  Accuracy: 15.10%
+round = 23 edge = 12 poison = False Average loss: 0.2628  Accuracy: 92.81%
+round = 23 edge = 13 poison = False Average loss: 0.2700  Accuracy: 92.83%
+round = 23 edge = 14 poison = False Average loss: 0.2718  Accuracy: 92.92%
+round = 23 edge = 15 poison = False Average loss: 0.2616  Accuracy: 93.10%
+round = 23 edge = 16 poison = False Average loss: 0.2732  Accuracy: 92.79%
+round = 23 edge = 17 poison = True Average loss: 2.2467  Accuracy: 18.02%
+round = 23 edge = 18 poison = False Average loss: 0.2749  Accuracy: 92.62%
+round = 23 edge = 19 poison = True Average loss: 2.2995  Accuracy: 16.23%
+Global model result at epoch 23-th
+poisoned: untarget, round: 23 Average loss: 0.4414, Accuracy: 9034.0/10000 (90.34%)
+label : 0 ,Recall: 950.0/980.0 (96.94%))
+label : 1 ,Recall: 1122.0/1135.0 (98.85%))
+label : 2 ,Recall: 928.0/1032.0 (89.92%))
+label : 3 ,Recall: 907.0/1010.0 (89.80%))
+label : 4 ,Recall: 937.0/982.0 (95.42%))
+label : 5 ,Recall: 743.0/892.0 (83.30%))
+label : 6 ,Recall: 941.0/958.0 (98.23%))
+label : 7 ,Recall: 981.0/1028.0 (95.43%))
+label : 8 ,Recall: 740.0/974.0 (75.98%))
+label : 9 ,Recall: 785.0/1009.0 (77.80%))
+======================================================
+round = 24 edge = 0 poison = False Average loss: 0.2535  Accuracy: 93.06%
+round = 24 edge = 1 poison = True Average loss: 2.3198  Accuracy: 16.27%
+round = 24 edge = 2 poison = False Average loss: 0.2562  Accuracy: 92.87%
+round = 24 edge = 3 poison = False Average loss: 0.2419  Accuracy: 93.40%
+round = 24 edge = 4 poison = False Average loss: 0.2552  Accuracy: 92.90%
+round = 24 edge = 5 poison = False Average loss: 0.2367  Accuracy: 93.49%
+round = 24 edge = 6 poison = False Average loss: 0.2542  Accuracy: 92.71%
+round = 24 edge = 7 poison = False Average loss: 0.2566  Accuracy: 92.94%
+round = 24 edge = 8 poison = False Average loss: 0.2561  Accuracy: 93.06%
+round = 24 edge = 9 poison = False Average loss: 0.2716  Accuracy: 93.05%
+round = 24 edge = 10 poison = True Average loss: 2.2870  Accuracy: 15.31%
+round = 24 edge = 11 poison = True Average loss: 2.3152  Accuracy: 14.26%
+round = 24 edge = 12 poison = False Average loss: 0.2513  Accuracy: 92.88%
+round = 24 edge = 13 poison = False Average loss: 0.2579  Accuracy: 93.18%
+round = 24 edge = 14 poison = False Average loss: 0.2599  Accuracy: 93.03%
+round = 24 edge = 15 poison = False Average loss: 0.2526  Accuracy: 93.29%
+round = 24 edge = 16 poison = False Average loss: 0.2539  Accuracy: 92.72%
+round = 24 edge = 17 poison = True Average loss: 2.3321  Accuracy: 15.26%
+round = 24 edge = 18 poison = False Average loss: 0.2525  Accuracy: 92.85%
+round = 24 edge = 19 poison = True Average loss: 2.2829  Accuracy: 22.36%
+Global model result at epoch 24-th
+poisoned: untarget, round: 24 Average loss: 0.4632, Accuracy: 8912.0/10000 (89.12%)
+label : 0 ,Recall: 957.0/980.0 (97.65%))
+label : 1 ,Recall: 1120.0/1135.0 (98.68%))
+label : 2 ,Recall: 909.0/1032.0 (88.08%))
+label : 3 ,Recall: 891.0/1010.0 (88.22%))
+label : 4 ,Recall: 951.0/982.0 (96.84%))
+label : 5 ,Recall: 756.0/892.0 (84.75%))
+label : 6 ,Recall: 939.0/958.0 (98.02%))
+label : 7 ,Recall: 976.0/1028.0 (94.94%))
+label : 8 ,Recall: 761.0/974.0 (78.13%))
+label : 9 ,Recall: 652.0/1009.0 (64.62%))
+======================================================
+round = 25 edge = 0 poison = False Average loss: 0.2445  Accuracy: 93.02%
+round = 25 edge = 1 poison = True Average loss: 2.3209  Accuracy: 16.32%
+round = 25 edge = 2 poison = False Average loss: 0.2427  Accuracy: 93.59%
+round = 25 edge = 3 poison = False Average loss: 0.2337  Accuracy: 93.73%
+round = 25 edge = 4 poison = False Average loss: 0.2525  Accuracy: 92.78%
+round = 25 edge = 5 poison = False Average loss: 0.2301  Accuracy: 93.42%
+round = 25 edge = 6 poison = False Average loss: 0.2442  Accuracy: 93.01%
+round = 25 edge = 7 poison = False Average loss: 0.2529  Accuracy: 92.54%
+round = 25 edge = 8 poison = False Average loss: 0.2520  Accuracy: 92.84%
+round = 25 edge = 9 poison = False Average loss: 0.2530  Accuracy: 92.86%
+round = 25 edge = 10 poison = True Average loss: 2.2305  Accuracy: 20.91%
+round = 25 edge = 11 poison = True Average loss: 2.3157  Accuracy: 14.93%
+round = 25 edge = 12 poison = False Average loss: 0.2392  Accuracy: 93.31%
+round = 25 edge = 13 poison = False Average loss: 0.2464  Accuracy: 93.37%
+round = 25 edge = 14 poison = False Average loss: 0.2565  Accuracy: 92.87%
+round = 25 edge = 15 poison = False Average loss: 0.2470  Accuracy: 93.54%
+round = 25 edge = 16 poison = False Average loss: 0.2547  Accuracy: 92.81%
+round = 25 edge = 17 poison = True Average loss: 2.3310  Accuracy: 17.80%
+round = 25 edge = 18 poison = False Average loss: 0.2473  Accuracy: 93.15%
+round = 25 edge = 19 poison = True Average loss: 2.2977  Accuracy: 19.58%
+Global model result at epoch 25-th
+poisoned: untarget, round: 25 Average loss: 0.4130, Accuracy: 9175.0/10000 (91.75%)
+label : 0 ,Recall: 964.0/980.0 (98.37%))
+label : 1 ,Recall: 1120.0/1135.0 (98.68%))
+label : 2 ,Recall: 923.0/1032.0 (89.44%))
+label : 3 ,Recall: 901.0/1010.0 (89.21%))
+label : 4 ,Recall: 939.0/982.0 (95.62%))
+label : 5 ,Recall: 757.0/892.0 (84.87%))
+label : 6 ,Recall: 932.0/958.0 (97.29%))
+label : 7 ,Recall: 979.0/1028.0 (95.23%))
+label : 8 ,Recall: 815.0/974.0 (83.68%))
+label : 9 ,Recall: 845.0/1009.0 (83.75%))
+======================================================
+round = 26 edge = 0 poison = False Average loss: 0.2284  Accuracy: 93.62%
+round = 26 edge = 1 poison = True Average loss: 2.3053  Accuracy: 16.11%
+round = 26 edge = 2 poison = False Average loss: 0.2306  Accuracy: 93.62%
+round = 26 edge = 3 poison = False Average loss: 0.2264  Accuracy: 93.99%
+round = 26 edge = 4 poison = False Average loss: 0.2373  Accuracy: 93.22%
+round = 26 edge = 5 poison = False Average loss: 0.2183  Accuracy: 93.93%
+round = 26 edge = 6 poison = False Average loss: 0.2308  Accuracy: 93.62%
+round = 26 edge = 7 poison = False Average loss: 0.2397  Accuracy: 93.45%
+round = 26 edge = 8 poison = False Average loss: 0.2361  Accuracy: 93.65%
+round = 26 edge = 9 poison = False Average loss: 0.2363  Accuracy: 93.18%
+round = 26 edge = 10 poison = True Average loss: 2.2963  Accuracy: 14.65%
+round = 26 edge = 11 poison = True Average loss: 2.3004  Accuracy: 18.19%
+round = 26 edge = 12 poison = False Average loss: 0.2274  Accuracy: 93.73%
+round = 26 edge = 13 poison = False Average loss: 0.2400  Accuracy: 93.54%
+round = 26 edge = 14 poison = False Average loss: 0.2427  Accuracy: 93.32%
+round = 26 edge = 15 poison = False Average loss: 0.2314  Accuracy: 93.84%
+round = 26 edge = 16 poison = False Average loss: 0.2346  Accuracy: 93.48%
+round = 26 edge = 17 poison = True Average loss: 2.3163  Accuracy: 18.23%
+round = 26 edge = 18 poison = False Average loss: 0.2342  Accuracy: 93.52%
+round = 26 edge = 19 poison = True Average loss: 2.3355  Accuracy: 14.60%
+Global model result at epoch 26-th
+poisoned: untarget, round: 26 Average loss: 0.4280, Accuracy: 9122.0/10000 (91.22%)
+label : 0 ,Recall: 955.0/980.0 (97.45%))
+label : 1 ,Recall: 1127.0/1135.0 (99.30%))
+label : 2 ,Recall: 912.0/1032.0 (88.37%))
+label : 3 ,Recall: 943.0/1010.0 (93.37%))
+label : 4 ,Recall: 949.0/982.0 (96.64%))
+label : 5 ,Recall: 783.0/892.0 (87.78%))
+label : 6 ,Recall: 936.0/958.0 (97.70%))
+label : 7 ,Recall: 969.0/1028.0 (94.26%))
+label : 8 ,Recall: 763.0/974.0 (78.34%))
+label : 9 ,Recall: 785.0/1009.0 (77.80%))
+======================================================
+round = 27 edge = 0 poison = False Average loss: 0.2274  Accuracy: 93.67%
+round = 27 edge = 1 poison = True Average loss: 2.3402  Accuracy: 13.22%
+round = 27 edge = 2 poison = False Average loss: 0.2205  Accuracy: 94.15%
+round = 27 edge = 3 poison = False Average loss: 0.2101  Accuracy: 94.73%
+round = 27 edge = 4 poison = False Average loss: 0.2322  Accuracy: 93.80%
+round = 27 edge = 5 poison = False Average loss: 0.2108  Accuracy: 93.93%
+round = 27 edge = 6 poison = False Average loss: 0.2243  Accuracy: 93.71%
+round = 27 edge = 7 poison = False Average loss: 0.2356  Accuracy: 93.26%
+round = 27 edge = 8 poison = False Average loss: 0.2303  Accuracy: 93.48%
+round = 27 edge = 9 poison = False Average loss: 0.2392  Accuracy: 93.46%
+round = 27 edge = 10 poison = True Average loss: 2.3609  Accuracy: 12.60%
+round = 27 edge = 11 poison = True Average loss: 2.3541  Accuracy: 12.81%
+round = 27 edge = 12 poison = False Average loss: 0.2240  Accuracy: 94.00%
+round = 27 edge = 13 poison = False Average loss: 0.2346  Accuracy: 93.54%
+round = 27 edge = 14 poison = False Average loss: 0.2350  Accuracy: 93.61%
+round = 27 edge = 15 poison = False Average loss: 0.2217  Accuracy: 94.36%
+round = 27 edge = 16 poison = False Average loss: 0.2286  Accuracy: 93.70%
+round = 27 edge = 17 poison = True Average loss: 2.3428  Accuracy: 14.94%
+round = 27 edge = 18 poison = False Average loss: 0.2325  Accuracy: 93.48%
+round = 27 edge = 19 poison = True Average loss: 2.3334  Accuracy: 15.06%
+Global model result at epoch 27-th
+poisoned: untarget, round: 27 Average loss: 0.4101, Accuracy: 9255.0/10000 (92.55%)
+label : 0 ,Recall: 961.0/980.0 (98.06%))
+label : 1 ,Recall: 1122.0/1135.0 (98.85%))
+label : 2 ,Recall: 920.0/1032.0 (89.15%))
+label : 3 ,Recall: 920.0/1010.0 (91.09%))
+label : 4 ,Recall: 932.0/982.0 (94.91%))
+label : 5 ,Recall: 762.0/892.0 (85.43%))
+label : 6 ,Recall: 936.0/958.0 (97.70%))
+label : 7 ,Recall: 988.0/1028.0 (96.11%))
+label : 8 ,Recall: 849.0/974.0 (87.17%))
+label : 9 ,Recall: 865.0/1009.0 (85.73%))
+======================================================
+round = 28 edge = 0 poison = False Average loss: 0.2120  Accuracy: 93.88%
+round = 28 edge = 1 poison = True Average loss: 2.3204  Accuracy: 17.52%
+round = 28 edge = 2 poison = False Average loss: 0.2150  Accuracy: 94.11%
+round = 28 edge = 3 poison = False Average loss: 0.2089  Accuracy: 94.40%
+round = 28 edge = 4 poison = False Average loss: 0.2186  Accuracy: 94.01%
+round = 28 edge = 5 poison = False Average loss: 0.2021  Accuracy: 94.31%
+round = 28 edge = 6 poison = False Average loss: 0.2172  Accuracy: 93.97%
+round = 28 edge = 7 poison = False Average loss: 0.2206  Accuracy: 93.99%
+round = 28 edge = 8 poison = False Average loss: 0.2225  Accuracy: 94.09%
+round = 28 edge = 9 poison = False Average loss: 0.2267  Accuracy: 93.88%
+round = 28 edge = 10 poison = True Average loss: 2.3091  Accuracy: 14.90%
+round = 28 edge = 11 poison = True Average loss: 2.2997  Accuracy: 16.38%
+round = 28 edge = 12 poison = False Average loss: 0.2142  Accuracy: 94.00%
+round = 28 edge = 13 poison = False Average loss: 0.2228  Accuracy: 94.05%
+round = 28 edge = 14 poison = False Average loss: 0.2241  Accuracy: 93.64%
+round = 28 edge = 15 poison = False Average loss: 0.2177  Accuracy: 94.43%
+round = 28 edge = 16 poison = False Average loss: 0.2149  Accuracy: 94.16%
+round = 28 edge = 17 poison = True Average loss: 2.3162  Accuracy: 16.52%
+round = 28 edge = 18 poison = False Average loss: 0.2193  Accuracy: 94.04%
+round = 28 edge = 19 poison = True Average loss: 2.3405  Accuracy: 14.78%
+Global model result at epoch 28-th
+poisoned: untarget, round: 28 Average loss: 0.4008, Accuracy: 9194.0/10000 (91.94%)
+label : 0 ,Recall: 957.0/980.0 (97.65%))
+label : 1 ,Recall: 1123.0/1135.0 (98.94%))
+label : 2 ,Recall: 970.0/1032.0 (93.99%))
+label : 3 ,Recall: 926.0/1010.0 (91.68%))
+label : 4 ,Recall: 939.0/982.0 (95.62%))
+label : 5 ,Recall: 772.0/892.0 (86.55%))
+label : 6 ,Recall: 941.0/958.0 (98.23%))
+label : 7 ,Recall: 975.0/1028.0 (94.84%))
+label : 8 ,Recall: 785.0/974.0 (80.60%))
+label : 9 ,Recall: 806.0/1009.0 (79.88%))
+======================================================
+round = 29 edge = 0 poison = False Average loss: 0.2089  Accuracy: 94.28%
+round = 29 edge = 1 poison = True Average loss: 2.3318  Accuracy: 13.45%
+round = 29 edge = 2 poison = False Average loss: 0.2037  Accuracy: 94.35%
+round = 29 edge = 3 poison = False Average loss: 0.1994  Accuracy: 94.81%
+round = 29 edge = 4 poison = False Average loss: 0.2137  Accuracy: 93.85%
+round = 29 edge = 5 poison = False Average loss: 0.1977  Accuracy: 94.58%
+round = 29 edge = 6 poison = False Average loss: 0.2093  Accuracy: 94.18%
+round = 29 edge = 7 poison = False Average loss: 0.2177  Accuracy: 94.12%
+round = 29 edge = 8 poison = False Average loss: 0.2188  Accuracy: 94.11%
+round = 29 edge = 9 poison = False Average loss: 0.2167  Accuracy: 94.14%
+round = 29 edge = 10 poison = True Average loss: 2.3120  Accuracy: 14.90%
+round = 29 edge = 11 poison = True Average loss: 2.3304  Accuracy: 15.23%
+round = 29 edge = 12 poison = False Average loss: 0.2058  Accuracy: 94.31%
+round = 29 edge = 13 poison = False Average loss: 0.2109  Accuracy: 94.09%
+round = 29 edge = 14 poison = False Average loss: 0.2175  Accuracy: 93.94%
+round = 29 edge = 15 poison = False Average loss: 0.2110  Accuracy: 94.46%
+round = 29 edge = 16 poison = False Average loss: 0.2080  Accuracy: 94.28%
+round = 29 edge = 17 poison = True Average loss: 2.3070  Accuracy: 19.02%
+round = 29 edge = 18 poison = False Average loss: 0.2159  Accuracy: 93.99%
+round = 29 edge = 19 poison = True Average loss: 2.3128  Accuracy: 16.65%
+Global model result at epoch 29-th
+poisoned: untarget, round: 29 Average loss: 0.4313, Accuracy: 9161.0/10000 (91.61%)
+label : 0 ,Recall: 951.0/980.0 (97.04%))
+label : 1 ,Recall: 1126.0/1135.0 (99.21%))
+label : 2 ,Recall: 819.0/1032.0 (79.36%))
+label : 3 ,Recall: 891.0/1010.0 (88.22%))
+label : 4 ,Recall: 955.0/982.0 (97.25%))
+label : 5 ,Recall: 802.0/892.0 (89.91%))
+label : 6 ,Recall: 931.0/958.0 (97.18%))
+label : 7 ,Recall: 974.0/1028.0 (94.75%))
+label : 8 ,Recall: 889.0/974.0 (91.27%))
+label : 9 ,Recall: 823.0/1009.0 (81.57%))
+======================================================
+round = 30 edge = 0 poison = False Average loss: 0.2106  Accuracy: 94.23%
+round = 30 edge = 1 poison = True Average loss: 2.3529  Accuracy: 12.27%
+round = 30 edge = 2 poison = False Average loss: 0.2037  Accuracy: 94.13%
+round = 30 edge = 3 poison = False Average loss: 0.1923  Accuracy: 94.61%
+round = 30 edge = 4 poison = False Average loss: 0.2095  Accuracy: 94.17%
+round = 30 edge = 5 poison = False Average loss: 0.1876  Accuracy: 94.86%
+round = 30 edge = 6 poison = False Average loss: 0.2088  Accuracy: 94.30%
+round = 30 edge = 7 poison = False Average loss: 0.2114  Accuracy: 94.05%
+round = 30 edge = 8 poison = False Average loss: 0.2120  Accuracy: 94.32%
+round = 30 edge = 9 poison = False Average loss: 0.2111  Accuracy: 94.19%
+round = 30 edge = 10 poison = True Average loss: 2.3274  Accuracy: 16.07%
+round = 30 edge = 11 poison = True Average loss: 2.2598  Accuracy: 19.64%
+round = 30 edge = 12 poison = False Average loss: 0.2011  Accuracy: 94.21%
+round = 30 edge = 13 poison = False Average loss: 0.2089  Accuracy: 94.19%
+round = 30 edge = 14 poison = False Average loss: 0.2149  Accuracy: 94.15%
+round = 30 edge = 15 poison = False Average loss: 0.2063  Accuracy: 94.64%
+round = 30 edge = 16 poison = False Average loss: 0.2036  Accuracy: 94.51%
+round = 30 edge = 17 poison = True Average loss: 2.3176  Accuracy: 16.38%
+round = 30 edge = 18 poison = False Average loss: 0.2125  Accuracy: 94.01%
+round = 30 edge = 19 poison = True Average loss: 2.3073  Accuracy: 13.50%
+Global model result at epoch 30-th
+poisoned: untarget, round: 30 Average loss: 0.3730, Accuracy: 9344.0/10000 (93.44%)
+label : 0 ,Recall: 967.0/980.0 (98.67%))
+label : 1 ,Recall: 1121.0/1135.0 (98.77%))
+label : 2 ,Recall: 965.0/1032.0 (93.51%))
+label : 3 ,Recall: 949.0/1010.0 (93.96%))
+label : 4 ,Recall: 937.0/982.0 (95.42%))
+label : 5 ,Recall: 774.0/892.0 (86.77%))
+label : 6 ,Recall: 936.0/958.0 (97.70%))
+label : 7 ,Recall: 977.0/1028.0 (95.04%))
+label : 8 ,Recall: 835.0/974.0 (85.73%))
+label : 9 ,Recall: 883.0/1009.0 (87.51%))
+======================================================
+round = 31 edge = 0 poison = False Average loss: 0.1964  Accuracy: 94.70%
+round = 31 edge = 1 poison = True Average loss: 2.2968  Accuracy: 16.24%
+round = 31 edge = 2 poison = False Average loss: 0.1867  Accuracy: 95.05%
+round = 31 edge = 3 poison = False Average loss: 0.1860  Accuracy: 95.20%
+round = 31 edge = 4 poison = False Average loss: 0.1979  Accuracy: 94.60%
+round = 31 edge = 5 poison = False Average loss: 0.1865  Accuracy: 94.86%
+round = 31 edge = 6 poison = False Average loss: 0.1967  Accuracy: 94.48%
+round = 31 edge = 7 poison = False Average loss: 0.2003  Accuracy: 94.56%
+round = 31 edge = 8 poison = False Average loss: 0.1952  Accuracy: 94.51%
+round = 31 edge = 9 poison = False Average loss: 0.2070  Accuracy: 94.58%
+round = 31 edge = 10 poison = True Average loss: 2.3403  Accuracy: 13.50%
+round = 31 edge = 11 poison = True Average loss: 2.2381  Accuracy: 19.01%
+round = 31 edge = 12 poison = False Average loss: 0.1940  Accuracy: 94.85%
+round = 31 edge = 13 poison = False Average loss: 0.1957  Accuracy: 94.38%
+round = 31 edge = 14 poison = False Average loss: 0.2081  Accuracy: 94.13%
+round = 31 edge = 15 poison = False Average loss: 0.1997  Accuracy: 94.90%
+round = 31 edge = 16 poison = False Average loss: 0.1982  Accuracy: 94.56%
+round = 31 edge = 17 poison = True Average loss: 2.3029  Accuracy: 13.12%
+round = 31 edge = 18 poison = False Average loss: 0.1947  Accuracy: 94.71%
+round = 31 edge = 19 poison = True Average loss: 2.2703  Accuracy: 17.01%
+Global model result at epoch 31-th
+poisoned: untarget, round: 31 Average loss: 0.4285, Accuracy: 9194.0/10000 (91.94%)
+label : 0 ,Recall: 959.0/980.0 (97.86%))
+label : 1 ,Recall: 1120.0/1135.0 (98.68%))
+label : 2 ,Recall: 902.0/1032.0 (87.40%))
+label : 3 ,Recall: 859.0/1010.0 (85.05%))
+label : 4 ,Recall: 961.0/982.0 (97.86%))
+label : 5 ,Recall: 763.0/892.0 (85.54%))
+label : 6 ,Recall: 930.0/958.0 (97.08%))
+label : 7 ,Recall: 979.0/1028.0 (95.23%))
+label : 8 ,Recall: 867.0/974.0 (89.01%))
+label : 9 ,Recall: 854.0/1009.0 (84.64%))
+======================================================
+round = 32 edge = 0 poison = False Average loss: 0.1940  Accuracy: 94.74%
+round = 32 edge = 1 poison = True Average loss: 2.2908  Accuracy: 19.66%
+round = 32 edge = 2 poison = False Average loss: 0.1872  Accuracy: 94.65%
+round = 32 edge = 3 poison = False Average loss: 0.1780  Accuracy: 95.27%
+round = 32 edge = 4 poison = False Average loss: 0.1958  Accuracy: 94.48%
+round = 32 edge = 5 poison = False Average loss: 0.1774  Accuracy: 95.07%
+round = 32 edge = 6 poison = False Average loss: 0.1914  Accuracy: 94.76%
+round = 32 edge = 7 poison = False Average loss: 0.1960  Accuracy: 94.49%
+round = 32 edge = 8 poison = False Average loss: 0.1947  Accuracy: 94.42%
+round = 32 edge = 9 poison = False Average loss: 0.1980  Accuracy: 94.16%
+round = 32 edge = 10 poison = True Average loss: 2.3140  Accuracy: 16.35%
+round = 32 edge = 11 poison = True Average loss: 2.3407  Accuracy: 15.12%
+round = 32 edge = 12 poison = False Average loss: 0.1889  Accuracy: 94.75%
+round = 32 edge = 13 poison = False Average loss: 0.1973  Accuracy: 94.45%
+round = 32 edge = 14 poison = False Average loss: 0.2010  Accuracy: 94.24%
+round = 32 edge = 15 poison = False Average loss: 0.1950  Accuracy: 94.87%
+round = 32 edge = 16 poison = False Average loss: 0.1913  Accuracy: 94.84%
+round = 32 edge = 17 poison = True Average loss: 2.2985  Accuracy: 17.43%
+round = 32 edge = 18 poison = False Average loss: 0.1961  Accuracy: 94.52%
+round = 32 edge = 19 poison = True Average loss: 2.2659  Accuracy: 22.38%
+Global model result at epoch 32-th
+poisoned: untarget, round: 32 Average loss: 0.3591, Accuracy: 9370.0/10000 (93.70%)
+label : 0 ,Recall: 965.0/980.0 (98.47%))
+label : 1 ,Recall: 1124.0/1135.0 (99.03%))
+label : 2 ,Recall: 978.0/1032.0 (94.77%))
+label : 3 ,Recall: 928.0/1010.0 (91.88%))
+label : 4 ,Recall: 938.0/982.0 (95.52%))
+label : 5 ,Recall: 805.0/892.0 (90.25%))
+label : 6 ,Recall: 941.0/958.0 (98.23%))
+label : 7 ,Recall: 973.0/1028.0 (94.65%))
+label : 8 ,Recall: 868.0/974.0 (89.12%))
+label : 9 ,Recall: 850.0/1009.0 (84.24%))
+======================================================
+round = 33 edge = 0 poison = False Average loss: 0.1805  Accuracy: 95.09%
+round = 33 edge = 1 poison = True Average loss: 2.3583  Accuracy: 12.61%
+round = 33 edge = 2 poison = False Average loss: 0.1768  Accuracy: 95.47%
+round = 33 edge = 3 poison = False Average loss: 0.1731  Accuracy: 95.37%
+round = 33 edge = 4 poison = False Average loss: 0.1882  Accuracy: 94.90%
+round = 33 edge = 5 poison = False Average loss: 0.1704  Accuracy: 95.47%
+round = 33 edge = 6 poison = False Average loss: 0.1860  Accuracy: 95.02%
+round = 33 edge = 7 poison = False Average loss: 0.1892  Accuracy: 94.70%
+round = 33 edge = 8 poison = False Average loss: 0.1939  Accuracy: 94.90%
+round = 33 edge = 9 poison = False Average loss: 0.1835  Accuracy: 95.09%
+round = 33 edge = 10 poison = True Average loss: 2.3018  Accuracy: 14.98%
+round = 33 edge = 11 poison = True Average loss: 2.3097  Accuracy: 15.72%
+round = 33 edge = 12 poison = False Average loss: 0.1835  Accuracy: 94.91%
+round = 33 edge = 13 poison = False Average loss: 0.1874  Accuracy: 94.86%
+round = 33 edge = 14 poison = False Average loss: 0.1916  Accuracy: 94.73%
+round = 33 edge = 15 poison = False Average loss: 0.1912  Accuracy: 95.35%
+round = 33 edge = 16 poison = False Average loss: 0.1865  Accuracy: 94.81%
+round = 33 edge = 17 poison = True Average loss: 2.3305  Accuracy: 13.77%
+round = 33 edge = 18 poison = False Average loss: 0.1844  Accuracy: 94.85%
+round = 33 edge = 19 poison = True Average loss: 2.3253  Accuracy: 16.38%
+Global model result at epoch 33-th
+poisoned: untarget, round: 33 Average loss: 0.3857, Accuracy: 9372.0/10000 (93.72%)
+label : 0 ,Recall: 966.0/980.0 (98.57%))
+label : 1 ,Recall: 1120.0/1135.0 (98.68%))
+label : 2 ,Recall: 939.0/1032.0 (90.99%))
+label : 3 ,Recall: 925.0/1010.0 (91.58%))
+label : 4 ,Recall: 944.0/982.0 (96.13%))
+label : 5 ,Recall: 782.0/892.0 (87.67%))
+label : 6 ,Recall: 934.0/958.0 (97.49%))
+label : 7 ,Recall: 990.0/1028.0 (96.30%))
+label : 8 ,Recall: 883.0/974.0 (90.66%))
+label : 9 ,Recall: 889.0/1009.0 (88.11%))
+======================================================
+round = 34 edge = 0 poison = False Average loss: 0.1823  Accuracy: 95.14%
+round = 34 edge = 1 poison = True Average loss: 2.3007  Accuracy: 16.36%
+round = 34 edge = 2 poison = False Average loss: 0.1695  Accuracy: 95.33%
+round = 34 edge = 3 poison = False Average loss: 0.1697  Accuracy: 95.44%
+round = 34 edge = 4 poison = False Average loss: 0.1791  Accuracy: 95.04%
+round = 34 edge = 5 poison = False Average loss: 0.1746  Accuracy: 95.23%
+round = 34 edge = 6 poison = False Average loss: 0.1822  Accuracy: 95.18%
+round = 34 edge = 7 poison = False Average loss: 0.1850  Accuracy: 95.03%
+round = 34 edge = 8 poison = False Average loss: 0.1878  Accuracy: 94.35%
+round = 34 edge = 9 poison = False Average loss: 0.1892  Accuracy: 94.56%
+round = 34 edge = 10 poison = True Average loss: 2.2997  Accuracy: 15.33%
+round = 34 edge = 11 poison = True Average loss: 2.3507  Accuracy: 14.11%
+round = 34 edge = 12 poison = False Average loss: 0.1787  Accuracy: 95.47%
+round = 34 edge = 13 poison = False Average loss: 0.1826  Accuracy: 94.98%
+round = 34 edge = 14 poison = False Average loss: 0.1899  Accuracy: 94.78%
+round = 34 edge = 15 poison = False Average loss: 0.1833  Accuracy: 95.18%
+round = 34 edge = 16 poison = False Average loss: 0.1753  Accuracy: 95.37%
+round = 34 edge = 17 poison = True Average loss: 2.2708  Accuracy: 19.23%
+round = 34 edge = 18 poison = False Average loss: 0.1777  Accuracy: 95.04%
+round = 34 edge = 19 poison = True Average loss: 2.2979  Accuracy: 17.94%
+Global model result at epoch 34-th
+poisoned: untarget, round: 34 Average loss: 0.3594, Accuracy: 9374.0/10000 (93.74%)
+label : 0 ,Recall: 962.0/980.0 (98.16%))
+label : 1 ,Recall: 1120.0/1135.0 (98.68%))
+label : 2 ,Recall: 926.0/1032.0 (89.73%))
+label : 3 ,Recall: 928.0/1010.0 (91.88%))
+label : 4 ,Recall: 944.0/982.0 (96.13%))
+label : 5 ,Recall: 808.0/892.0 (90.58%))
+label : 6 ,Recall: 938.0/958.0 (97.91%))
+label : 7 ,Recall: 974.0/1028.0 (94.75%))
+label : 8 ,Recall: 889.0/974.0 (91.27%))
+label : 9 ,Recall: 885.0/1009.0 (87.71%))
+======================================================
+round = 35 edge = 0 poison = False Average loss: 0.1734  Accuracy: 95.21%
+round = 35 edge = 1 poison = True Average loss: 2.2535  Accuracy: 19.39%
+round = 35 edge = 2 poison = False Average loss: 0.1659  Accuracy: 95.35%
+round = 35 edge = 3 poison = False Average loss: 0.1619  Accuracy: 95.72%
+round = 35 edge = 4 poison = False Average loss: 0.1709  Accuracy: 95.31%
+round = 35 edge = 5 poison = False Average loss: 0.1593  Accuracy: 95.77%
+round = 35 edge = 6 poison = False Average loss: 0.1727  Accuracy: 95.16%
+round = 35 edge = 7 poison = False Average loss: 0.1825  Accuracy: 94.70%
+round = 35 edge = 8 poison = False Average loss: 0.1776  Accuracy: 95.32%
+round = 35 edge = 9 poison = False Average loss: 0.1760  Accuracy: 95.23%
+round = 35 edge = 10 poison = True Average loss: 2.2942  Accuracy: 18.41%
+round = 35 edge = 11 poison = True Average loss: 2.3092  Accuracy: 13.81%
+round = 35 edge = 12 poison = False Average loss: 0.1698  Accuracy: 95.40%
+round = 35 edge = 13 poison = False Average loss: 0.1775  Accuracy: 95.08%
+round = 35 edge = 14 poison = False Average loss: 0.1823  Accuracy: 94.82%
+round = 35 edge = 15 poison = False Average loss: 0.1723  Accuracy: 95.63%
+round = 35 edge = 16 poison = False Average loss: 0.1722  Accuracy: 95.61%
+round = 35 edge = 17 poison = True Average loss: 2.2899  Accuracy: 16.52%
+round = 35 edge = 18 poison = False Average loss: 0.1717  Accuracy: 94.87%
+round = 35 edge = 19 poison = True Average loss: 2.3034  Accuracy: 16.38%
+Global model result at epoch 35-th
+poisoned: untarget, round: 35 Average loss: 0.3653, Accuracy: 9395.0/10000 (93.95%)
+label : 0 ,Recall: 964.0/980.0 (98.37%))
+label : 1 ,Recall: 1124.0/1135.0 (99.03%))
+label : 2 ,Recall: 967.0/1032.0 (93.70%))
+label : 3 ,Recall: 926.0/1010.0 (91.68%))
+label : 4 ,Recall: 932.0/982.0 (94.91%))
+label : 5 ,Recall: 811.0/892.0 (90.92%))
+label : 6 ,Recall: 941.0/958.0 (98.23%))
+label : 7 ,Recall: 979.0/1028.0 (95.23%))
+label : 8 ,Recall: 884.0/974.0 (90.76%))
+label : 9 ,Recall: 867.0/1009.0 (85.93%))
+======================================================
+round = 36 edge = 0 poison = False Average loss: 0.1649  Accuracy: 95.38%
+round = 36 edge = 1 poison = True Average loss: 2.2976  Accuracy: 15.83%
+round = 36 edge = 2 poison = False Average loss: 0.1581  Accuracy: 95.73%
+round = 36 edge = 3 poison = False Average loss: 0.1620  Accuracy: 95.83%
+round = 36 edge = 4 poison = False Average loss: 0.1674  Accuracy: 95.54%
+round = 36 edge = 5 poison = False Average loss: 0.1566  Accuracy: 95.89%
+round = 36 edge = 6 poison = False Average loss: 0.1670  Accuracy: 95.72%
+round = 36 edge = 7 poison = False Average loss: 0.1706  Accuracy: 95.07%
+round = 36 edge = 8 poison = False Average loss: 0.1715  Accuracy: 95.14%
+round = 36 edge = 9 poison = False Average loss: 0.1839  Accuracy: 94.97%
+round = 36 edge = 10 poison = True Average loss: 2.2341  Accuracy: 19.18%
+round = 36 edge = 11 poison = True Average loss: 2.3090  Accuracy: 16.38%
+round = 36 edge = 12 poison = False Average loss: 0.1635  Accuracy: 95.59%
+round = 36 edge = 13 poison = False Average loss: 0.1702  Accuracy: 95.17%
+round = 36 edge = 14 poison = False Average loss: 0.1783  Accuracy: 95.15%
+round = 36 edge = 15 poison = False Average loss: 0.1687  Accuracy: 95.62%
+round = 36 edge = 16 poison = False Average loss: 0.1657  Accuracy: 95.72%
+round = 36 edge = 17 poison = True Average loss: 2.3146  Accuracy: 17.99%
+round = 36 edge = 18 poison = False Average loss: 0.1698  Accuracy: 95.27%
+round = 36 edge = 19 poison = True Average loss: 2.2919  Accuracy: 16.54%
+Global model result at epoch 36-th
+poisoned: untarget, round: 36 Average loss: 0.3819, Accuracy: 9388.0/10000 (93.88%)
+label : 0 ,Recall: 957.0/980.0 (97.65%))
+label : 1 ,Recall: 1126.0/1135.0 (99.21%))
+label : 2 ,Recall: 898.0/1032.0 (87.02%))
+label : 3 ,Recall: 939.0/1010.0 (92.97%))
+label : 4 ,Recall: 947.0/982.0 (96.44%))
+label : 5 ,Recall: 827.0/892.0 (92.71%))
+label : 6 ,Recall: 935.0/958.0 (97.60%))
+label : 7 ,Recall: 996.0/1028.0 (96.89%))
+label : 8 ,Recall: 860.0/974.0 (88.30%))
+label : 9 ,Recall: 903.0/1009.0 (89.49%))
+======================================================
+round = 37 edge = 0 poison = False Average loss: 0.1614  Accuracy: 95.61%
+round = 37 edge = 1 poison = True Average loss: 2.2955  Accuracy: 15.90%
+round = 37 edge = 2 poison = False Average loss: 0.1556  Accuracy: 95.80%
+round = 37 edge = 3 poison = False Average loss: 0.1543  Accuracy: 96.19%
+round = 37 edge = 4 poison = False Average loss: 0.1667  Accuracy: 95.52%
+round = 37 edge = 5 poison = False Average loss: 0.1505  Accuracy: 95.72%
+round = 37 edge = 6 poison = False Average loss: 0.1665  Accuracy: 95.68%
+round = 37 edge = 7 poison = False Average loss: 0.1695  Accuracy: 95.43%
+round = 37 edge = 8 poison = False Average loss: 0.1723  Accuracy: 95.07%
+round = 37 edge = 9 poison = False Average loss: 0.1666  Accuracy: 95.77%
+round = 37 edge = 10 poison = True Average loss: 2.2489  Accuracy: 18.30%
+round = 37 edge = 11 poison = True Average loss: 2.3157  Accuracy: 17.77%
+round = 37 edge = 12 poison = False Average loss: 0.1598  Accuracy: 95.45%
+round = 37 edge = 13 poison = False Average loss: 0.1694  Accuracy: 95.42%
+round = 37 edge = 14 poison = False Average loss: 0.1706  Accuracy: 95.24%
+round = 37 edge = 15 poison = False Average loss: 0.1651  Accuracy: 95.91%
+round = 37 edge = 16 poison = False Average loss: 0.1665  Accuracy: 95.75%
+round = 37 edge = 17 poison = True Average loss: 2.3085  Accuracy: 13.51%
+round = 37 edge = 18 poison = False Average loss: 0.1623  Accuracy: 95.41%
+round = 37 edge = 19 poison = True Average loss: 2.2515  Accuracy: 22.35%
+Global model result at epoch 37-th
+poisoned: untarget, round: 37 Average loss: 0.3446, Accuracy: 9438.0/10000 (94.38%)
+label : 0 ,Recall: 966.0/980.0 (98.57%))
+label : 1 ,Recall: 1122.0/1135.0 (98.85%))
+label : 2 ,Recall: 979.0/1032.0 (94.86%))
+label : 3 ,Recall: 928.0/1010.0 (91.88%))
+label : 4 ,Recall: 946.0/982.0 (96.33%))
+label : 5 ,Recall: 814.0/892.0 (91.26%))
+label : 6 ,Recall: 938.0/958.0 (97.91%))
+label : 7 ,Recall: 980.0/1028.0 (95.33%))
+label : 8 ,Recall: 888.0/974.0 (91.17%))
+label : 9 ,Recall: 877.0/1009.0 (86.92%))
+======================================================
+round = 38 edge = 0 poison = False Average loss: 0.1587  Accuracy: 95.51%
+round = 38 edge = 1 poison = True Average loss: 2.2708  Accuracy: 16.85%
+round = 38 edge = 2 poison = False Average loss: 0.1549  Accuracy: 95.63%
+round = 38 edge = 3 poison = False Average loss: 0.1488  Accuracy: 96.23%
+round = 38 edge = 4 poison = False Average loss: 0.1626  Accuracy: 95.61%
+round = 38 edge = 5 poison = False Average loss: 0.1467  Accuracy: 96.28%
+round = 38 edge = 6 poison = False Average loss: 0.1601  Accuracy: 95.70%
+round = 38 edge = 7 poison = False Average loss: 0.1600  Accuracy: 95.42%
+round = 38 edge = 8 poison = False Average loss: 0.1624  Accuracy: 95.44%
+round = 38 edge = 9 poison = False Average loss: 0.1639  Accuracy: 95.54%
+round = 38 edge = 10 poison = True Average loss: 2.3060  Accuracy: 16.35%
+round = 38 edge = 11 poison = True Average loss: 2.2911  Accuracy: 17.93%
+round = 38 edge = 12 poison = False Average loss: 0.1554  Accuracy: 95.71%
+round = 38 edge = 13 poison = False Average loss: 0.1628  Accuracy: 95.47%
+round = 38 edge = 14 poison = False Average loss: 0.1766  Accuracy: 94.96%
+round = 38 edge = 15 poison = False Average loss: 0.1610  Accuracy: 96.04%
+round = 38 edge = 16 poison = False Average loss: 0.1644  Accuracy: 95.59%
+round = 38 edge = 17 poison = True Average loss: 2.2703  Accuracy: 16.87%
+round = 38 edge = 18 poison = False Average loss: 0.1568  Accuracy: 95.67%
+round = 38 edge = 19 poison = True Average loss: 2.3068  Accuracy: 14.60%
+Global model result at epoch 38-th
+poisoned: untarget, round: 38 Average loss: 0.3652, Accuracy: 9465.0/10000 (94.65%)
+label : 0 ,Recall: 967.0/980.0 (98.67%))
+label : 1 ,Recall: 1120.0/1135.0 (98.68%))
+label : 2 ,Recall: 955.0/1032.0 (92.54%))
+label : 3 ,Recall: 937.0/1010.0 (92.77%))
+label : 4 ,Recall: 953.0/982.0 (97.05%))
+label : 5 ,Recall: 814.0/892.0 (91.26%))
+label : 6 ,Recall: 931.0/958.0 (97.18%))
+label : 7 ,Recall: 995.0/1028.0 (96.79%))
+label : 8 ,Recall: 900.0/974.0 (92.40%))
+label : 9 ,Recall: 893.0/1009.0 (88.50%))
+======================================================
+round = 39 edge = 0 poison = False Average loss: 0.1590  Accuracy: 95.77%
+round = 39 edge = 1 poison = True Average loss: 2.3296  Accuracy: 13.59%
+round = 39 edge = 2 poison = False Average loss: 0.1469  Accuracy: 96.11%
+round = 39 edge = 3 poison = False Average loss: 0.1453  Accuracy: 96.32%
+round = 39 edge = 4 poison = False Average loss: 0.1516  Accuracy: 96.03%
+round = 39 edge = 5 poison = False Average loss: 0.1429  Accuracy: 96.16%
+round = 39 edge = 6 poison = False Average loss: 0.1569  Accuracy: 96.09%
+round = 39 edge = 7 poison = False Average loss: 0.1583  Accuracy: 95.70%
+round = 39 edge = 8 poison = False Average loss: 0.1606  Accuracy: 95.62%
+round = 39 edge = 9 poison = False Average loss: 0.1586  Accuracy: 95.84%
+round = 39 edge = 10 poison = True Average loss: 2.2726  Accuracy: 18.02%
+round = 39 edge = 11 poison = True Average loss: 2.3516  Accuracy: 11.42%
+round = 39 edge = 12 poison = False Average loss: 0.1566  Accuracy: 95.75%
+round = 39 edge = 13 poison = False Average loss: 0.1561  Accuracy: 95.70%
+round = 39 edge = 14 poison = False Average loss: 0.1640  Accuracy: 95.54%
+round = 39 edge = 15 poison = False Average loss: 0.1527  Accuracy: 96.14%
+round = 39 edge = 16 poison = False Average loss: 0.1544  Accuracy: 96.03%
+round = 39 edge = 17 poison = True Average loss: 2.3208  Accuracy: 13.28%
+round = 39 edge = 18 poison = False Average loss: 0.1546  Accuracy: 95.57%
+round = 39 edge = 19 poison = True Average loss: 2.3078  Accuracy: 16.44%
+Global model result at epoch 39-th
+poisoned: untarget, round: 39 Average loss: 0.3435, Accuracy: 9465.0/10000 (94.65%)
+label : 0 ,Recall: 963.0/980.0 (98.27%))
+label : 1 ,Recall: 1123.0/1135.0 (98.94%))
+label : 2 ,Recall: 964.0/1032.0 (93.41%))
+label : 3 ,Recall: 957.0/1010.0 (94.75%))
+label : 4 ,Recall: 952.0/982.0 (96.95%))
+label : 5 ,Recall: 825.0/892.0 (92.49%))
+label : 6 ,Recall: 940.0/958.0 (98.12%))
+label : 7 ,Recall: 972.0/1028.0 (94.55%))
+label : 8 ,Recall: 893.0/974.0 (91.68%))
+label : 9 ,Recall: 876.0/1009.0 (86.82%))
+======================================================
+round = 40 edge = 0 poison = False Average loss: 0.1538  Accuracy: 95.79%
+round = 40 edge = 1 poison = True Average loss: 2.2991  Accuracy: 16.89%
+round = 40 edge = 2 poison = False Average loss: 0.1425  Accuracy: 96.32%
+round = 40 edge = 3 poison = False Average loss: 0.1428  Accuracy: 96.30%
+round = 40 edge = 4 poison = False Average loss: 0.1484  Accuracy: 96.03%
+round = 40 edge = 5 poison = False Average loss: 0.1373  Accuracy: 96.56%
+round = 40 edge = 6 poison = False Average loss: 0.1483  Accuracy: 96.00%
+round = 40 edge = 7 poison = False Average loss: 0.1606  Accuracy: 95.58%
+round = 40 edge = 8 poison = False Average loss: 0.1530  Accuracy: 95.79%
+round = 40 edge = 9 poison = False Average loss: 0.1578  Accuracy: 95.90%
+round = 40 edge = 10 poison = True Average loss: 2.3156  Accuracy: 17.50%
+round = 40 edge = 11 poison = True Average loss: 2.3281  Accuracy: 13.97%
+round = 40 edge = 12 poison = False Average loss: 0.1456  Accuracy: 96.25%
+round = 40 edge = 13 poison = False Average loss: 0.1541  Accuracy: 96.03%
+round = 40 edge = 14 poison = False Average loss: 0.1623  Accuracy: 95.66%
+round = 40 edge = 15 poison = False Average loss: 0.1527  Accuracy: 95.81%
+round = 40 edge = 16 poison = False Average loss: 0.1512  Accuracy: 96.20%
+round = 40 edge = 17 poison = True Average loss: 2.3198  Accuracy: 18.29%
+round = 40 edge = 18 poison = False Average loss: 0.1503  Accuracy: 95.97%
+round = 40 edge = 19 poison = True Average loss: 2.2761  Accuracy: 13.73%
+Global model result at epoch 40-th
+poisoned: untarget, round: 40 Average loss: 0.3587, Accuracy: 9431.0/10000 (94.31%)
+label : 0 ,Recall: 965.0/980.0 (98.47%))
+label : 1 ,Recall: 1116.0/1135.0 (98.33%))
+label : 2 ,Recall: 953.0/1032.0 (92.34%))
+label : 3 ,Recall: 911.0/1010.0 (90.20%))
+label : 4 ,Recall: 945.0/982.0 (96.23%))
+label : 5 ,Recall: 803.0/892.0 (90.02%))
+label : 6 ,Recall: 940.0/958.0 (98.12%))
+label : 7 ,Recall: 980.0/1028.0 (95.33%))
+label : 8 ,Recall: 921.0/974.0 (94.56%))
+label : 9 ,Recall: 897.0/1009.0 (88.90%))
+======================================================
+round = 41 edge = 0 poison = False Average loss: 0.1496  Accuracy: 96.10%
+round = 41 edge = 1 poison = True Average loss: 2.2814  Accuracy: 16.03%
+round = 41 edge = 2 poison = False Average loss: 0.1441  Accuracy: 96.31%
+round = 41 edge = 3 poison = False Average loss: 0.1414  Accuracy: 96.49%
+round = 41 edge = 4 poison = False Average loss: 0.1472  Accuracy: 96.12%
+round = 41 edge = 5 poison = False Average loss: 0.1357  Accuracy: 96.42%
+round = 41 edge = 6 poison = False Average loss: 0.1487  Accuracy: 96.05%
+round = 41 edge = 7 poison = False Average loss: 0.1455  Accuracy: 95.77%
+round = 41 edge = 8 poison = False Average loss: 0.1512  Accuracy: 95.97%
+round = 41 edge = 9 poison = False Average loss: 0.1491  Accuracy: 95.84%
+round = 41 edge = 10 poison = True Average loss: 2.3202  Accuracy: 15.47%
+round = 41 edge = 11 poison = True Average loss: 2.2994  Accuracy: 14.77%
+round = 41 edge = 12 poison = False Average loss: 0.1475  Accuracy: 95.89%
+round = 41 edge = 13 poison = False Average loss: 0.1487  Accuracy: 95.98%
+round = 41 edge = 14 poison = False Average loss: 0.1564  Accuracy: 95.73%
+round = 41 edge = 15 poison = False Average loss: 0.1490  Accuracy: 96.14%
+round = 41 edge = 16 poison = False Average loss: 0.1465  Accuracy: 96.31%
+round = 41 edge = 17 poison = True Average loss: 2.2513  Accuracy: 18.39%
+round = 41 edge = 18 poison = False Average loss: 0.1541  Accuracy: 95.85%
+round = 41 edge = 19 poison = True Average loss: 2.2869  Accuracy: 16.56%
+Global model result at epoch 41-th
+poisoned: untarget, round: 41 Average loss: 0.3432, Accuracy: 9490.0/10000 (94.90%)
+label : 0 ,Recall: 958.0/980.0 (97.76%))
+label : 1 ,Recall: 1128.0/1135.0 (99.38%))
+label : 2 ,Recall: 943.0/1032.0 (91.38%))
+label : 3 ,Recall: 968.0/1010.0 (95.84%))
+label : 4 ,Recall: 954.0/982.0 (97.15%))
+label : 5 ,Recall: 819.0/892.0 (91.82%))
+label : 6 ,Recall: 930.0/958.0 (97.08%))
+label : 7 ,Recall: 986.0/1028.0 (95.91%))
+label : 8 ,Recall: 906.0/974.0 (93.02%))
+label : 9 ,Recall: 898.0/1009.0 (89.00%))
+======================================================
+round = 42 edge = 0 poison = False Average loss: 0.1407  Accuracy: 96.19%
+round = 42 edge = 1 poison = True Average loss: 2.3103  Accuracy: 16.57%
+round = 42 edge = 2 poison = False Average loss: 0.1371  Accuracy: 96.22%
+round = 42 edge = 3 poison = False Average loss: 0.1350  Accuracy: 96.37%
+round = 42 edge = 4 poison = False Average loss: 0.1400  Accuracy: 96.52%
+round = 42 edge = 5 poison = False Average loss: 0.1310  Accuracy: 96.61%
+round = 42 edge = 6 poison = False Average loss: 0.1466  Accuracy: 96.23%
+round = 42 edge = 7 poison = False Average loss: 0.1452  Accuracy: 95.73%
+round = 42 edge = 8 poison = False Average loss: 0.1488  Accuracy: 95.88%
+round = 42 edge = 9 poison = False Average loss: 0.1511  Accuracy: 95.79%
+round = 42 edge = 10 poison = True Average loss: 2.3013  Accuracy: 15.68%
+round = 42 edge = 11 poison = True Average loss: 2.3369  Accuracy: 12.02%
+round = 42 edge = 12 poison = False Average loss: 0.1382  Accuracy: 96.67%
+round = 42 edge = 13 poison = False Average loss: 0.1421  Accuracy: 96.24%
+round = 42 edge = 14 poison = False Average loss: 0.1499  Accuracy: 95.92%
+round = 42 edge = 15 poison = False Average loss: 0.1433  Accuracy: 96.33%
+round = 42 edge = 16 poison = False Average loss: 0.1411  Accuracy: 96.47%
+round = 42 edge = 17 poison = True Average loss: 2.2541  Accuracy: 16.19%
+round = 42 edge = 18 poison = False Average loss: 0.1376  Accuracy: 96.37%
+round = 42 edge = 19 poison = True Average loss: 2.3037  Accuracy: 15.79%
+Global model result at epoch 42-th
+poisoned: untarget, round: 42 Average loss: 0.3602, Accuracy: 9457.0/10000 (94.57%)
+label : 0 ,Recall: 968.0/980.0 (98.78%))
+label : 1 ,Recall: 1106.0/1135.0 (97.44%))
+label : 2 ,Recall: 970.0/1032.0 (93.99%))
+label : 3 ,Recall: 909.0/1010.0 (90.00%))
+label : 4 ,Recall: 965.0/982.0 (98.27%))
+label : 5 ,Recall: 815.0/892.0 (91.37%))
+label : 6 ,Recall: 932.0/958.0 (97.29%))
+label : 7 ,Recall: 971.0/1028.0 (94.46%))
+label : 8 ,Recall: 924.0/974.0 (94.87%))
+label : 9 ,Recall: 897.0/1009.0 (88.90%))
+======================================================
+round = 43 edge = 0 poison = False Average loss: 0.1420  Accuracy: 95.98%
+round = 43 edge = 1 poison = True Average loss: 2.2827  Accuracy: 18.04%
+round = 43 edge = 2 poison = False Average loss: 0.1321  Accuracy: 96.29%
+round = 43 edge = 3 poison = False Average loss: 0.1311  Accuracy: 96.63%
+round = 43 edge = 4 poison = False Average loss: 0.1399  Accuracy: 96.26%
+round = 43 edge = 5 poison = False Average loss: 0.1302  Accuracy: 96.45%
+round = 43 edge = 6 poison = False Average loss: 0.1370  Accuracy: 96.59%
+round = 43 edge = 7 poison = False Average loss: 0.1407  Accuracy: 96.15%
+round = 43 edge = 8 poison = False Average loss: 0.1428  Accuracy: 96.00%
+round = 43 edge = 9 poison = False Average loss: 0.1443  Accuracy: 96.21%
+round = 43 edge = 10 poison = True Average loss: 2.3185  Accuracy: 13.46%
+round = 43 edge = 11 poison = True Average loss: 2.2644  Accuracy: 15.10%
+round = 43 edge = 12 poison = False Average loss: 0.1389  Accuracy: 96.46%
+round = 43 edge = 13 poison = False Average loss: 0.1425  Accuracy: 96.17%
+round = 43 edge = 14 poison = False Average loss: 0.1483  Accuracy: 96.08%
+round = 43 edge = 15 poison = False Average loss: 0.1413  Accuracy: 96.47%
+round = 43 edge = 16 poison = False Average loss: 0.1389  Accuracy: 96.31%
+round = 43 edge = 17 poison = True Average loss: 2.2888  Accuracy: 13.72%
+round = 43 edge = 18 poison = False Average loss: 0.1414  Accuracy: 96.18%
+round = 43 edge = 19 poison = True Average loss: 2.3110  Accuracy: 14.79%
+Global model result at epoch 43-th
+poisoned: untarget, round: 43 Average loss: 0.3234, Accuracy: 9526.0/10000 (95.26%)
+label : 0 ,Recall: 964.0/980.0 (98.37%))
+label : 1 ,Recall: 1127.0/1135.0 (99.30%))
+label : 2 ,Recall: 972.0/1032.0 (94.19%))
+label : 3 ,Recall: 968.0/1010.0 (95.84%))
+label : 4 ,Recall: 944.0/982.0 (96.13%))
+label : 5 ,Recall: 818.0/892.0 (91.70%))
+label : 6 ,Recall: 937.0/958.0 (97.81%))
+label : 7 ,Recall: 988.0/1028.0 (96.11%))
+label : 8 ,Recall: 899.0/974.0 (92.30%))
+label : 9 ,Recall: 909.0/1009.0 (90.09%))
+======================================================
+round = 44 edge = 0 poison = False Average loss: 0.1320  Accuracy: 96.49%
+round = 44 edge = 1 poison = True Average loss: 2.3218  Accuracy: 14.83%
+round = 44 edge = 2 poison = False Average loss: 0.1299  Accuracy: 96.48%
+round = 44 edge = 3 poison = False Average loss: 0.1250  Accuracy: 96.91%
+round = 44 edge = 4 poison = False Average loss: 0.1356  Accuracy: 96.17%
+round = 44 edge = 5 poison = False Average loss: 0.1239  Accuracy: 96.75%
+round = 44 edge = 6 poison = False Average loss: 0.1327  Accuracy: 96.58%
+round = 44 edge = 7 poison = False Average loss: 0.1369  Accuracy: 96.21%
+round = 44 edge = 8 poison = False Average loss: 0.1493  Accuracy: 96.12%
+round = 44 edge = 9 poison = False Average loss: 0.1390  Accuracy: 96.23%
+round = 44 edge = 10 poison = True Average loss: 2.2897  Accuracy: 18.16%
+round = 44 edge = 11 poison = True Average loss: 2.3183  Accuracy: 13.49%
+round = 44 edge = 12 poison = False Average loss: 0.1309  Accuracy: 96.59%
+round = 44 edge = 13 poison = False Average loss: 0.1343  Accuracy: 96.26%
+round = 44 edge = 14 poison = False Average loss: 0.1442  Accuracy: 95.94%
+round = 44 edge = 15 poison = False Average loss: 0.1390  Accuracy: 96.51%
+round = 44 edge = 16 poison = False Average loss: 0.1334  Accuracy: 96.66%
+round = 44 edge = 17 poison = True Average loss: 2.3502  Accuracy: 11.99%
+round = 44 edge = 18 poison = False Average loss: 0.1322  Accuracy: 96.20%
+round = 44 edge = 19 poison = True Average loss: 2.3070  Accuracy: 15.42%
+Global model result at epoch 44-th
+poisoned: untarget, round: 44 Average loss: 0.3643, Accuracy: 9500.0/10000 (95.00%)
+label : 0 ,Recall: 966.0/980.0 (98.57%))
+label : 1 ,Recall: 1117.0/1135.0 (98.41%))
+label : 2 ,Recall: 978.0/1032.0 (94.77%))
+label : 3 ,Recall: 928.0/1010.0 (91.88%))
+label : 4 ,Recall: 959.0/982.0 (97.66%))
+label : 5 ,Recall: 838.0/892.0 (93.95%))
+label : 6 ,Recall: 937.0/958.0 (97.81%))
+label : 7 ,Recall: 978.0/1028.0 (95.14%))
+label : 8 ,Recall: 922.0/974.0 (94.66%))
+label : 9 ,Recall: 877.0/1009.0 (86.92%))
+======================================================
+round = 45 edge = 0 poison = False Average loss: 0.1344  Accuracy: 96.52%
+round = 45 edge = 1 poison = True Average loss: 2.3336  Accuracy: 13.33%
+round = 45 edge = 2 poison = False Average loss: 0.1255  Accuracy: 96.62%
+round = 45 edge = 3 poison = False Average loss: 0.1256  Accuracy: 96.82%
+round = 45 edge = 4 poison = False Average loss: 0.1286  Accuracy: 96.77%
+round = 45 edge = 5 poison = False Average loss: 0.1233  Accuracy: 96.84%
+round = 45 edge = 6 poison = False Average loss: 0.1343  Accuracy: 96.49%
+round = 45 edge = 7 poison = False Average loss: 0.1335  Accuracy: 96.54%
+round = 45 edge = 8 poison = False Average loss: 0.1374  Accuracy: 96.05%
+round = 45 edge = 9 poison = False Average loss: 0.1442  Accuracy: 96.35%
+round = 45 edge = 10 poison = True Average loss: 2.2479  Accuracy: 19.14%
+round = 45 edge = 11 poison = True Average loss: 2.3124  Accuracy: 14.56%
+round = 45 edge = 12 poison = False Average loss: 0.1353  Accuracy: 96.34%
+round = 45 edge = 13 poison = False Average loss: 0.1314  Accuracy: 96.47%
+round = 45 edge = 14 poison = False Average loss: 0.1433  Accuracy: 95.99%
+round = 45 edge = 15 poison = False Average loss: 0.1368  Accuracy: 96.54%
+round = 45 edge = 16 poison = False Average loss: 0.1327  Accuracy: 96.41%
+round = 45 edge = 17 poison = True Average loss: 2.3116  Accuracy: 13.21%
+round = 45 edge = 18 poison = False Average loss: 0.1340  Accuracy: 96.30%
+round = 45 edge = 19 poison = True Average loss: 2.2651  Accuracy: 16.07%
+Global model result at epoch 45-th
+poisoned: untarget, round: 45 Average loss: 0.3339, Accuracy: 9552.0/10000 (95.52%)
+label : 0 ,Recall: 967.0/980.0 (98.67%))
+label : 1 ,Recall: 1128.0/1135.0 (99.38%))
+label : 2 ,Recall: 969.0/1032.0 (93.90%))
+label : 3 ,Recall: 949.0/1010.0 (93.96%))
+label : 4 ,Recall: 952.0/982.0 (96.95%))
+label : 5 ,Recall: 816.0/892.0 (91.48%))
+label : 6 ,Recall: 928.0/958.0 (96.87%))
+label : 7 ,Recall: 990.0/1028.0 (96.30%))
+label : 8 ,Recall: 915.0/974.0 (93.94%))
+label : 9 ,Recall: 938.0/1009.0 (92.96%))
+======================================================
+round = 46 edge = 0 poison = False Average loss: 0.1278  Accuracy: 96.75%
+round = 46 edge = 1 poison = True Average loss: 2.2643  Accuracy: 16.34%
+round = 46 edge = 2 poison = False Average loss: 0.1224  Accuracy: 96.85%
+round = 46 edge = 3 poison = False Average loss: 0.1242  Accuracy: 96.61%
+round = 46 edge = 4 poison = False Average loss: 0.1295  Accuracy: 96.59%
+round = 46 edge = 5 poison = False Average loss: 0.1205  Accuracy: 96.84%
+round = 46 edge = 6 poison = False Average loss: 0.1301  Accuracy: 96.54%
+round = 46 edge = 7 poison = False Average loss: 0.1288  Accuracy: 96.37%
+round = 46 edge = 8 poison = False Average loss: 0.1344  Accuracy: 96.28%
+round = 46 edge = 9 poison = False Average loss: 0.1311  Accuracy: 96.49%
+round = 46 edge = 10 poison = True Average loss: 2.2781  Accuracy: 16.49%
+round = 46 edge = 11 poison = True Average loss: 2.2853  Accuracy: 16.14%
+round = 46 edge = 12 poison = False Average loss: 0.1229  Accuracy: 96.76%
+round = 46 edge = 13 poison = False Average loss: 0.1237  Accuracy: 96.57%
+round = 46 edge = 14 poison = False Average loss: 0.1411  Accuracy: 96.06%
+round = 46 edge = 15 poison = False Average loss: 0.1300  Accuracy: 96.77%
+round = 46 edge = 16 poison = False Average loss: 0.1285  Accuracy: 96.97%
+round = 46 edge = 17 poison = True Average loss: 2.3185  Accuracy: 13.60%
+round = 46 edge = 18 poison = False Average loss: 0.1296  Accuracy: 96.71%
+round = 46 edge = 19 poison = True Average loss: 2.2517  Accuracy: 21.14%
+Global model result at epoch 46-th
+poisoned: untarget, round: 46 Average loss: 0.3632, Accuracy: 9462.0/10000 (94.62%)
+label : 0 ,Recall: 960.0/980.0 (97.96%))
+label : 1 ,Recall: 1118.0/1135.0 (98.50%))
+label : 2 ,Recall: 949.0/1032.0 (91.96%))
+label : 3 ,Recall: 922.0/1010.0 (91.29%))
+label : 4 ,Recall: 966.0/982.0 (98.37%))
+label : 5 ,Recall: 849.0/892.0 (95.18%))
+label : 6 ,Recall: 933.0/958.0 (97.39%))
+label : 7 ,Recall: 974.0/1028.0 (94.75%))
+label : 8 ,Recall: 934.0/974.0 (95.89%))
+label : 9 ,Recall: 857.0/1009.0 (84.94%))
+======================================================
+round = 47 edge = 0 poison = False Average loss: 0.1258  Accuracy: 96.66%
+round = 47 edge = 1 poison = True Average loss: 2.2392  Accuracy: 17.66%
+round = 47 edge = 2 poison = False Average loss: 0.1272  Accuracy: 96.65%
+round = 47 edge = 3 poison = False Average loss: 0.1252  Accuracy: 96.84%
+round = 47 edge = 4 poison = False Average loss: 0.1301  Accuracy: 96.61%
+round = 47 edge = 5 poison = False Average loss: 0.1267  Accuracy: 97.00%
+round = 47 edge = 6 poison = False Average loss: 0.1275  Accuracy: 96.77%
+round = 47 edge = 7 poison = False Average loss: 0.1291  Accuracy: 96.51%
+round = 47 edge = 8 poison = False Average loss: 0.1344  Accuracy: 96.19%
+round = 47 edge = 9 poison = False Average loss: 0.1302  Accuracy: 96.37%
+round = 47 edge = 10 poison = True Average loss: 2.2465  Accuracy: 16.17%
+round = 47 edge = 11 poison = True Average loss: 2.2961  Accuracy: 16.44%
+round = 47 edge = 12 poison = False Average loss: 0.1273  Accuracy: 96.85%
+round = 47 edge = 13 poison = False Average loss: 0.1279  Accuracy: 96.55%
+round = 47 edge = 14 poison = False Average loss: 0.1421  Accuracy: 95.99%
+round = 47 edge = 15 poison = False Average loss: 0.1312  Accuracy: 96.51%
+round = 47 edge = 16 poison = False Average loss: 0.1239  Accuracy: 96.92%
+round = 47 edge = 17 poison = True Average loss: 2.3023  Accuracy: 16.57%
+round = 47 edge = 18 poison = False Average loss: 0.1248  Accuracy: 96.92%
+round = 47 edge = 19 poison = True Average loss: 2.2975  Accuracy: 15.16%
+Global model result at epoch 47-th
+poisoned: untarget, round: 47 Average loss: 0.3076, Accuracy: 9545.0/10000 (95.45%)
+label : 0 ,Recall: 963.0/980.0 (98.27%))
+label : 1 ,Recall: 1120.0/1135.0 (98.68%))
+label : 2 ,Recall: 990.0/1032.0 (95.93%))
+label : 3 ,Recall: 946.0/1010.0 (93.66%))
+label : 4 ,Recall: 948.0/982.0 (96.54%))
+label : 5 ,Recall: 835.0/892.0 (93.61%))
+label : 6 ,Recall: 940.0/958.0 (98.12%))
+label : 7 ,Recall: 985.0/1028.0 (95.82%))
+label : 8 ,Recall: 926.0/974.0 (95.07%))
+label : 9 ,Recall: 892.0/1009.0 (88.40%))
+======================================================
+round = 48 edge = 0 poison = False Average loss: 0.1227  Accuracy: 96.75%
+round = 48 edge = 1 poison = True Average loss: 2.3114  Accuracy: 15.45%
+round = 48 edge = 2 poison = False Average loss: 0.1156  Accuracy: 97.06%
+round = 48 edge = 3 poison = False Average loss: 0.1159  Accuracy: 97.26%
+round = 48 edge = 4 poison = False Average loss: 0.1204  Accuracy: 96.71%
+round = 48 edge = 5 poison = False Average loss: 0.1144  Accuracy: 96.93%
+round = 48 edge = 6 poison = False Average loss: 0.1202  Accuracy: 97.12%
+round = 48 edge = 7 poison = False Average loss: 0.1234  Accuracy: 96.79%
+round = 48 edge = 8 poison = False Average loss: 0.1243  Accuracy: 96.62%
+round = 48 edge = 9 poison = False Average loss: 0.1385  Accuracy: 96.70%
+round = 48 edge = 10 poison = True Average loss: 2.3140  Accuracy: 13.85%
+round = 48 edge = 11 poison = True Average loss: 2.3147  Accuracy: 16.89%
+round = 48 edge = 12 poison = False Average loss: 0.1182  Accuracy: 97.02%
+round = 48 edge = 13 poison = False Average loss: 0.1194  Accuracy: 96.76%
+round = 48 edge = 14 poison = False Average loss: 0.1323  Accuracy: 96.36%
+round = 48 edge = 15 poison = False Average loss: 0.1218  Accuracy: 96.82%
+round = 48 edge = 16 poison = False Average loss: 0.1221  Accuracy: 96.82%
+round = 48 edge = 17 poison = True Average loss: 2.3397  Accuracy: 13.12%
+round = 48 edge = 18 poison = False Average loss: 0.1217  Accuracy: 96.71%
+round = 48 edge = 19 poison = True Average loss: 2.2901  Accuracy: 15.23%
+Global model result at epoch 48-th
+poisoned: untarget, round: 48 Average loss: 0.3902, Accuracy: 9499.0/10000 (94.99%)
+label : 0 ,Recall: 971.0/980.0 (99.08%))
+label : 1 ,Recall: 1116.0/1135.0 (98.33%))
+label : 2 ,Recall: 942.0/1032.0 (91.28%))
+label : 3 ,Recall: 925.0/1010.0 (91.58%))
+label : 4 ,Recall: 963.0/982.0 (98.07%))
+label : 5 ,Recall: 833.0/892.0 (93.39%))
+label : 6 ,Recall: 932.0/958.0 (97.29%))
+label : 7 ,Recall: 971.0/1028.0 (94.46%))
+label : 8 ,Recall: 931.0/974.0 (95.59%))
+label : 9 ,Recall: 915.0/1009.0 (90.68%))
+======================================================
+round = 49 edge = 0 poison = False Average loss: 0.1231  Accuracy: 96.75%
+round = 49 edge = 1 poison = True Average loss: 2.3022  Accuracy: 13.59%
+round = 49 edge = 2 poison = False Average loss: 0.1164  Accuracy: 96.93%
+round = 49 edge = 3 poison = False Average loss: 0.1194  Accuracy: 97.22%
+round = 49 edge = 4 poison = False Average loss: 0.1225  Accuracy: 96.73%
+round = 49 edge = 5 poison = False Average loss: 0.1121  Accuracy: 97.30%
+round = 49 edge = 6 poison = False Average loss: 0.1238  Accuracy: 96.77%
+round = 49 edge = 7 poison = False Average loss: 0.1221  Accuracy: 96.61%
+round = 49 edge = 8 poison = False Average loss: 0.1342  Accuracy: 96.51%
+round = 49 edge = 9 poison = False Average loss: 0.1273  Accuracy: 96.65%
+round = 49 edge = 10 poison = True Average loss: 2.2912  Accuracy: 16.22%
+round = 49 edge = 11 poison = True Average loss: 2.3285  Accuracy: 11.48%
+round = 49 edge = 12 poison = False Average loss: 0.1172  Accuracy: 96.94%
+round = 49 edge = 13 poison = False Average loss: 0.1197  Accuracy: 96.80%
+round = 49 edge = 14 poison = False Average loss: 0.1337  Accuracy: 96.33%
+round = 49 edge = 15 poison = False Average loss: 0.1217  Accuracy: 96.96%
+round = 49 edge = 16 poison = False Average loss: 0.1237  Accuracy: 97.15%
+round = 49 edge = 17 poison = True Average loss: 2.2735  Accuracy: 17.99%
+round = 49 edge = 18 poison = False Average loss: 0.1244  Accuracy: 96.65%
+round = 49 edge = 19 poison = True Average loss: 2.3077  Accuracy: 18.13%
+Global model result at epoch 49-th
+poisoned: untarget, round: 49 Average loss: 0.2752, Accuracy: 9558.0/10000 (95.58%)
+label : 0 ,Recall: 962.0/980.0 (98.16%))
+label : 1 ,Recall: 1123.0/1135.0 (98.94%))
+label : 2 ,Recall: 988.0/1032.0 (95.74%))
+label : 3 ,Recall: 957.0/1010.0 (94.75%))
+label : 4 ,Recall: 952.0/982.0 (96.95%))
+label : 5 ,Recall: 815.0/892.0 (91.37%))
+label : 6 ,Recall: 940.0/958.0 (98.12%))
+label : 7 ,Recall: 989.0/1028.0 (96.21%))
+label : 8 ,Recall: 928.0/974.0 (95.28%))
+label : 9 ,Recall: 904.0/1009.0 (89.59%))
+======================================================
+----------client initial time£º4ms----------
+--------------s1 initial time£º0ms----------
+--------------s2 initial time£º0ms----------
+------------------client time£º7335ms----------
+------------------s1 time£º15378ms----------
+------------------s2 time£º6544ms----------
